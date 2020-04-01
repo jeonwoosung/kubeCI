@@ -1,0 +1,13 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: webapp-ingress
+spec:
+  rules:
+  - host: app1.test.co.kr
+    http:
+      paths:
+      - backend:
+          serviceName: webapp1-svc
+          servicePort: 8080
+
