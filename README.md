@@ -1,7 +1,7 @@
 # kubeCI
 
-sh/apply_deploy.sh  
-  - deployment 생성
+deployment 생성
+  - sh/apply_deploy.sh  
 
-sh/delete_deploy.sh
-  - webapp deployment 삭제
+webapp deployment 삭제
+  - sh/delete_deploy.sh
