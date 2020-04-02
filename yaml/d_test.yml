@@ -12,6 +12,7 @@ spec:
       labels:
         app: webapp1
     spec:
+      subdomain: default-subdomain
       containers:
       - name: webapp1
         image: testapp/app1:v0.2
@@ -48,6 +49,7 @@ spec:
       labels:
         app: webapp2
     spec:
+      subdomain: default-subdomain
       containers:
       - name: webapp2
         image: testapp/app1:v0.2
@@ -84,6 +86,7 @@ spec:
       labels:
         app: webapp3
     spec:
+      subdomain: default-subdomain
       containers:
       - name: webapp3
         image: testapp/app1:v0.2
@@ -120,6 +123,7 @@ spec:
       labels:
         app: webapp4
     spec:
+      subdomain: default-subdomain
       containers:
       - name: webapp4
         image: testapp/app1:v0.2
@@ -156,6 +160,7 @@ spec:
       labels:
         app: webapp5
     spec:
+      subdomain: default-subdomain
       containers:
       - name: webapp5
         image: testapp/app1:v0.2
