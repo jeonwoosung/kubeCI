@@ -1,0 +1,38 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: podproxy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: podproxy
+  template:
+    metadata:
+      labels:
+        app: podproxy
+    spec:
+      subdomain: default-subdomain
+      containers:
+      - name: podproxy
+        image: nginx:v0.2
+        #command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
+        #args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user5.yml"]
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: podproxy-svc
+  labels:
+    app: podproxy
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+    name: http
+  selector:
+    app: podproxy
+---
