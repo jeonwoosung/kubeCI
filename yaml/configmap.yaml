@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  client_header_buffer_size: "512" 
+  proxy-set-headers: "ingress-nginx/custom-headers"
+  #error-log-level: "debug" 
+kind: ConfigMap
+metadata:
+  name: nginx-configuration
+  namespace: ingress-nginx

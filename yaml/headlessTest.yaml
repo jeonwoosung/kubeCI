@@ -1,0 +1,39 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webapp6
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webapp6
+  template:
+    metadata:
+      labels:
+        app: webapp6
+    spec:
+      subdomain: default-subdomain
+      containers:
+      - name: webapp6
+        image: testapp/app1:v0.2
+        command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user5.yml"]
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: webapp6-svc
+  labels:
+    app: webapp6
+spec:
+  clusterIP: None
+  ports:
+  - port: 80
+    targetPort: 80
+    name: http
+  selector:
+    app: webapp6
+---
