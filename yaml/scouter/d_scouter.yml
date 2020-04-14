@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scouter
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: scouter
+  template:
+    metadata:
+      labels:
+        app: scouter
+    spec:
+      containers:
+      - name: scouter
+        image: scouter:v0.1
+        command: ["/root/scouter/server/start.sh"]
+        ports:
+        - containerPort: 6180
+        - containerPort: 6100
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: scouter-svc
+  labels:
+    app: scouter
+spec:
+  ports:
+  - port: 80
+    targetPort: 6180
+    name: http
+  - port: 6100
+    targetPort: 6100
+    name: tcp
+  selector:
+    app: scouter

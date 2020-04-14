@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webapp9
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webapp9
+  template:
+    metadata:
+      labels:
+        app: webapp9
+    spec:
+      subdomain: default-subdomain
+      containers:
+      - name: webapp9
+        image: testapp/app1:v0.3
+        command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
+        args: [" -Dspring.config.location=file:///hli_app/sw/jboss/config/application_user1.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp6 "]
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: webapp9-svc
+  labels:
+    app: webapp9
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+    name: http
+  selector:
+    app: webapp9
