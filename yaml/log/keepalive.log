@@ -1,0 +1,2273 @@
+2020/04/11 21:24:44 [debug] 40#40: *17409 http cleanup add: 000055A06F661290
+2020/04/11 21:24:44 [debug] 40#40: *17409 lua run thread, top:0 c:1
+2020/04/11 21:24:44 [debug] 40#40: *17409 lua resume returned 0
+2020/04/11 21:24:44 [debug] 40#40: *17409 lua light thread ended normally
+2020/04/11 21:24:44 [debug] 40#40: *17409 lua deleting light thread
+2020/04/11 21:24:44 [debug] 40#40: *17409 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:44 [debug] 40#40: *17409 http lua fake request count:1
+2020/04/11 21:24:44 [debug] 40#40: *17409 http lua close fake request
+2020/04/11 21:24:44 [debug] 40#40: *17409 lua request cleanup: forcible=0
+2020/04/11 21:24:44 [debug] 40#40: *17409 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:44 [debug] 40#40: *17410 http cleanup add: 000055A06F661290
+2020/04/11 21:24:44 [debug] 40#40: *17410 lua run thread, top:0 c:1
+2020/04/11 21:24:44 [debug] 40#40: *17410 lua resume returned 0
+2020/04/11 21:24:44 [debug] 40#40: *17410 lua light thread ended normally
+2020/04/11 21:24:44 [debug] 40#40: *17410 lua deleting light thread
+2020/04/11 21:24:44 [debug] 40#40: *17410 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:44 [debug] 40#40: *17410 http lua fake request count:1
+2020/04/11 21:24:44 [debug] 40#40: *17410 http lua close fake request
+2020/04/11 21:24:44 [debug] 40#40: *17410 lua request cleanup: forcible=0
+2020/04/11 21:24:44 [debug] 40#40: *17410 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:44 [debug] 39#39: *17412 http cleanup add: 000055A06F661230
+2020/04/11 21:24:44 [debug] 39#39: *17412 lua run thread, top:0 c:1
+2020/04/11 21:24:44 [debug] 39#39: *17412 lua resume returned 0
+2020/04/11 21:24:44 [debug] 39#39: *17412 lua light thread ended normally
+2020/04/11 21:24:44 [debug] 39#39: *17412 lua deleting light thread
+2020/04/11 21:24:44 [debug] 39#39: *17412 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:44 [debug] 39#39: *17412 http lua fake request count:1
+2020/04/11 21:24:44 [debug] 39#39: *17412 http lua close fake request
+2020/04/11 21:24:44 [debug] 39#39: *17412 lua request cleanup: forcible=0
+2020/04/11 21:24:44 [debug] 39#39: *17412 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:44 [debug] 39#39: *17413 http cleanup add: 000055A06F661230
+2020/04/11 21:24:44 [debug] 39#39: *17413 lua run thread, top:0 c:1
+2020/04/11 21:24:44 [debug] 39#39: *17413 lua resume returned 0
+2020/04/11 21:24:44 [debug] 39#39: *17413 lua light thread ended normally
+2020/04/11 21:24:44 [debug] 39#39: *17413 lua deleting light thread
+2020/04/11 21:24:44 [debug] 39#39: *17413 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:44 [debug] 39#39: *17413 http lua fake request count:1
+2020/04/11 21:24:44 [debug] 39#39: *17413 http lua close fake request
+2020/04/11 21:24:44 [debug] 39#39: *17413 lua request cleanup: forcible=0
+2020/04/11 21:24:44 [debug] 39#39: *17413 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 41#41: *17415 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 41#41: *17415 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 41#41: *17415 lua resume returned 0
+2020/04/11 21:24:45 [debug] 41#41: *17415 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 41#41: *17415 lua deleting light thread
+2020/04/11 21:24:45 [debug] 41#41: *17415 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 41#41: *17415 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 41#41: *17415 http lua close fake request
+2020/04/11 21:24:45 [debug] 41#41: *17415 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 41#41: *17415 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 41#41: *17416 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 41#41: *17416 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 41#41: *17416 lua resume returned 0
+2020/04/11 21:24:45 [debug] 41#41: *17416 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 41#41: *17416 lua deleting light thread
+2020/04/11 21:24:45 [debug] 41#41: *17416 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 41#41: *17416 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 41#41: *17416 http lua close fake request
+2020/04/11 21:24:45 [debug] 41#41: *17416 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 41#41: *17416 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 42#42: *17418 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 42#42: *17418 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 42#42: *17418 lua resume returned 0
+2020/04/11 21:24:45 [debug] 42#42: *17418 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 42#42: *17418 lua deleting light thread
+2020/04/11 21:24:45 [debug] 42#42: *17418 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 42#42: *17418 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 42#42: *17418 http lua close fake request
+2020/04/11 21:24:45 [debug] 42#42: *17418 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 42#42: *17418 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 42#42: *17419 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 42#42: *17419 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 42#42: *17419 lua resume returned 0
+2020/04/11 21:24:45 [debug] 42#42: *17419 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 42#42: *17419 lua deleting light thread
+2020/04/11 21:24:45 [debug] 42#42: *17419 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 42#42: *17419 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 42#42: *17419 http lua close fake request
+2020/04/11 21:24:45 [debug] 42#42: *17419 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 42#42: *17419 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 40#40: *17421 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 40#40: *17421 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 40#40: *17421 lua resume returned 0
+2020/04/11 21:24:45 [debug] 40#40: *17421 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 40#40: *17421 lua deleting light thread
+2020/04/11 21:24:45 [debug] 40#40: *17421 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 40#40: *17421 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 40#40: *17421 http lua close fake request
+2020/04/11 21:24:45 [debug] 40#40: *17421 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 40#40: *17421 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:45 [debug] 40#40: *17422 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 40#40: *17422 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 40#40: *17422 lua resume returned 0
+2020/04/11 21:24:45 [debug] 40#40: *17422 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 40#40: *17422 lua deleting light thread
+2020/04/11 21:24:45 [debug] 40#40: *17422 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 40#40: *17422 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 40#40: *17422 http lua close fake request
+2020/04/11 21:24:45 [debug] 40#40: *17422 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 40#40: *17422 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:45 [debug] 39#39: *17424 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 39#39: *17424 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 39#39: *17424 lua resume returned 0
+2020/04/11 21:24:45 [debug] 39#39: *17424 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 39#39: *17424 lua deleting light thread
+2020/04/11 21:24:45 [debug] 39#39: *17424 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 39#39: *17424 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 39#39: *17424 http lua close fake request
+2020/04/11 21:24:45 [debug] 39#39: *17424 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 39#39: *17424 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:45 [debug] 39#39: *17425 http cleanup add: 000055A06F661230
+2020/04/11 21:24:45 [debug] 39#39: *17425 lua run thread, top:0 c:1
+2020/04/11 21:24:45 [debug] 39#39: *17425 lua resume returned 0
+2020/04/11 21:24:45 [debug] 39#39: *17425 lua light thread ended normally
+2020/04/11 21:24:45 [debug] 39#39: *17425 lua deleting light thread
+2020/04/11 21:24:45 [debug] 39#39: *17425 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:45 [debug] 39#39: *17425 http lua fake request count:1
+2020/04/11 21:24:45 [debug] 39#39: *17425 http lua close fake request
+2020/04/11 21:24:45 [debug] 39#39: *17425 lua request cleanup: forcible=0
+2020/04/11 21:24:45 [debug] 39#39: *17425 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 41#41: *17427 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 41#41: *17427 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 41#41: *17427 lua resume returned 0
+2020/04/11 21:24:46 [debug] 41#41: *17427 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 41#41: *17427 lua deleting light thread
+2020/04/11 21:24:46 [debug] 41#41: *17427 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 41#41: *17427 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 41#41: *17427 http lua close fake request
+2020/04/11 21:24:46 [debug] 41#41: *17427 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 41#41: *17427 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 41#41: *17428 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 41#41: *17428 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 41#41: *17428 lua resume returned 0
+2020/04/11 21:24:46 [debug] 41#41: *17428 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 41#41: *17428 lua deleting light thread
+2020/04/11 21:24:46 [debug] 41#41: *17428 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 41#41: *17428 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 41#41: *17428 http lua close fake request
+2020/04/11 21:24:46 [debug] 41#41: *17428 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 41#41: *17428 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 42#42: *17430 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 42#42: *17430 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 42#42: *17430 lua resume returned 0
+2020/04/11 21:24:46 [debug] 42#42: *17430 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 42#42: *17430 lua deleting light thread
+2020/04/11 21:24:46 [debug] 42#42: *17430 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 42#42: *17430 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 42#42: *17430 http lua close fake request
+2020/04/11 21:24:46 [debug] 42#42: *17430 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 42#42: *17430 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 42#42: *17431 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 42#42: *17431 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 42#42: *17431 lua resume returned 0
+2020/04/11 21:24:46 [debug] 42#42: *17431 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 42#42: *17431 lua deleting light thread
+2020/04/11 21:24:46 [debug] 42#42: *17431 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 42#42: *17431 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 42#42: *17431 http lua close fake request
+2020/04/11 21:24:46 [debug] 42#42: *17431 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 42#42: *17431 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 40#40: *17433 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 40#40: *17433 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 40#40: *17433 lua resume returned 0
+2020/04/11 21:24:46 [debug] 40#40: *17433 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 40#40: *17433 lua deleting light thread
+2020/04/11 21:24:46 [debug] 40#40: *17433 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 40#40: *17433 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 40#40: *17433 http lua close fake request
+2020/04/11 21:24:46 [debug] 40#40: *17433 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 40#40: *17433 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:46 [debug] 40#40: *17434 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 40#40: *17434 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 40#40: *17434 lua resume returned 0
+2020/04/11 21:24:46 [debug] 40#40: *17434 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 40#40: *17434 lua deleting light thread
+2020/04/11 21:24:46 [debug] 40#40: *17434 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 40#40: *17434 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 40#40: *17434 http lua close fake request
+2020/04/11 21:24:46 [debug] 40#40: *17434 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 40#40: *17434 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:46 [debug] 39#39: *17436 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 39#39: *17436 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 39#39: *17436 lua resume returned 0
+2020/04/11 21:24:46 [debug] 39#39: *17436 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 39#39: *17436 lua deleting light thread
+2020/04/11 21:24:46 [debug] 39#39: *17436 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 39#39: *17436 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 39#39: *17436 http lua close fake request
+2020/04/11 21:24:46 [debug] 39#39: *17436 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 39#39: *17436 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:46 [debug] 39#39: *17437 http cleanup add: 000055A06F661230
+2020/04/11 21:24:46 [debug] 39#39: *17437 lua run thread, top:0 c:1
+2020/04/11 21:24:46 [debug] 39#39: *17437 lua resume returned 0
+2020/04/11 21:24:46 [debug] 39#39: *17437 lua light thread ended normally
+2020/04/11 21:24:46 [debug] 39#39: *17437 lua deleting light thread
+2020/04/11 21:24:46 [debug] 39#39: *17437 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:46 [debug] 39#39: *17437 http lua fake request count:1
+2020/04/11 21:24:46 [debug] 39#39: *17437 http lua close fake request
+2020/04/11 21:24:46 [debug] 39#39: *17437 lua request cleanup: forcible=0
+2020/04/11 21:24:46 [debug] 39#39: *17437 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 41#41: *17439 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 41#41: *17439 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 41#41: *17439 lua resume returned 0
+2020/04/11 21:24:47 [debug] 41#41: *17439 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 41#41: *17439 lua deleting light thread
+2020/04/11 21:24:47 [debug] 41#41: *17439 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 41#41: *17439 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 41#41: *17439 http lua close fake request
+2020/04/11 21:24:47 [debug] 41#41: *17439 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 41#41: *17439 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 41#41: *17440 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 41#41: *17440 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 41#41: *17440 lua resume returned 0
+2020/04/11 21:24:47 [debug] 41#41: *17440 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 41#41: *17440 lua deleting light thread
+2020/04/11 21:24:47 [debug] 41#41: *17440 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 41#41: *17440 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 41#41: *17440 http lua close fake request
+2020/04/11 21:24:47 [debug] 41#41: *17440 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 41#41: *17440 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 42#42: *17442 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 42#42: *17442 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 42#42: *17442 lua resume returned 0
+2020/04/11 21:24:47 [debug] 42#42: *17442 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 42#42: *17442 lua deleting light thread
+2020/04/11 21:24:47 [debug] 42#42: *17442 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 42#42: *17442 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 42#42: *17442 http lua close fake request
+2020/04/11 21:24:47 [debug] 42#42: *17442 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 42#42: *17442 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 42#42: *17443 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 42#42: *17443 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 42#42: *17443 lua resume returned 0
+2020/04/11 21:24:47 [debug] 42#42: *17443 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 42#42: *17443 lua deleting light thread
+2020/04/11 21:24:47 [debug] 42#42: *17443 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 42#42: *17443 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 42#42: *17443 http lua close fake request
+2020/04/11 21:24:47 [debug] 42#42: *17443 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 42#42: *17443 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 40#40: *17445 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 40#40: *17445 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 40#40: *17445 lua resume returned 0
+2020/04/11 21:24:47 [debug] 40#40: *17445 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 40#40: *17445 lua deleting light thread
+2020/04/11 21:24:47 [debug] 40#40: *17445 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 40#40: *17445 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 40#40: *17445 http lua close fake request
+2020/04/11 21:24:47 [debug] 40#40: *17445 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 40#40: *17445 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:47 [debug] 40#40: *17446 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 40#40: *17446 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 40#40: *17446 lua resume returned 0
+2020/04/11 21:24:47 [debug] 40#40: *17446 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 40#40: *17446 lua deleting light thread
+2020/04/11 21:24:47 [debug] 40#40: *17446 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 40#40: *17446 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 40#40: *17446 http lua close fake request
+2020/04/11 21:24:47 [debug] 40#40: *17446 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 40#40: *17446 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:47 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:47 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:47 [debug] 39#39: *17448 accept: 127.0.0.1:43534 fd:3
+2020/04/11 21:24:47 [debug] 39#39: *17448 event timer add: 3: 60000:1436121502
+2020/04/11 21:24:47 [debug] 39#39: *17448 reusable connection: 1
+2020/04/11 21:24:47 [debug] 39#39: *17448 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:47 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:47 [debug] 39#39: *17448 http wait request handler
+2020/04/11 21:24:47 [debug] 39#39: *17448 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:47 [debug] 39#39: *17448 recv: eof:0, avail:-1
+2020/04/11 21:24:47 [debug] 39#39: *17448 recv: fd:3 103 of 1024
+2020/04/11 21:24:47 [debug] 39#39: *17448 reusable connection: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:47 [debug] 39#39: *17448 http process request line
+2020/04/11 21:24:47 [debug] 39#39: *17448 http request line: "GET /healthz HTTP/1.1"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http uri: "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http args: ""
+2020/04/11 21:24:47 [debug] 39#39: *17448 http exten: ""
+2020/04/11 21:24:47 [debug] 39#39: *17448 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:47 [debug] 39#39: *17448 http process request header line
+2020/04/11 21:24:47 [debug] 39#39: *17448 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http header done
+2020/04/11 21:24:47 [debug] 39#39: *17448 event timer del: 3: 1436121502
+2020/04/11 21:24:47 [debug] 39#39: *17448 generic phase: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 rewrite phase: 1
+2020/04/11 21:24:47 [debug] 39#39: *17448 http script value: "internal"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http script set $proxy_upstream_name
+2020/04/11 21:24:47 [debug] 39#39: *17448 test location: "/"
+2020/04/11 21:24:47 [debug] 39#39: *17448 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 39#39: *17448 test location: "healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 using configuration "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http cl:-1 max:1048576
+2020/04/11 21:24:47 [debug] 39#39: *17448 rewrite phase: 3
+2020/04/11 21:24:47 [debug] 39#39: *17448 http set discard body
+2020/04/11 21:24:47 [debug] 39#39: *17448 lua header filter for user lua code, uri "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 lua capture header filter, uri "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:47 GMT
+Content-Type: text/html
+Content-Length: 0
+Connection: close
+
+2020/04/11 21:24:47 [debug] 39#39: *17448 write new buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 http write filter: l:0 f:0 s:141
+2020/04/11 21:24:47 [debug] 39#39: *17448 http output filter "/healthz?"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http copy filter: "/healthz?"
+2020/04/11 21:24:47 [debug] 39#39: *17448 lua body filter for user lua code, uri "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 lua capture body filter, uri "/healthz"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http postpone filter "/healthz?" 00007FFC8FEDBCF0
+2020/04/11 21:24:47 [debug] 39#39: *17448 http brotli filter
+2020/04/11 21:24:47 [debug] 39#39: *17448 write old buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 write new buf t:0 f:0 0000000000000000, pos 0000000000000000, size: 0 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 http write filter: l:1 f:0 s:141
+2020/04/11 21:24:47 [debug] 39#39: *17448 http write filter limit 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 writev: 141 of 141
+2020/04/11 21:24:47 [debug] 39#39: *17448 http write filter 0000000000000000
+2020/04/11 21:24:47 [debug] 40#40: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:47 [debug] 40#40: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:47 [debug] 39#39: *17448 http copy filter: 0 "/healthz?"
+2020/04/11 21:24:47 [debug] 39#39: *17448 http finalize request: 0, "/healthz?" a:1, c:1
+2020/04/11 21:24:47 [debug] 39#39: *17448 http request count:1 blk:0
+2020/04/11 21:24:47 [debug] 39#39: *17448 http close request
+2020/04/11 21:24:47 [debug] 39#39: *17448 lua log handler, uri:"/healthz" c:0
+2020/04/11 21:24:47 [debug] 39#39: *17448 http log handler
+2020/04/11 21:24:47 [debug] 39#39: *17448 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:47 [debug] 39#39: *17448 free: 000055A06F6E68E0, unused: 2288
+2020/04/11 21:24:47 [debug] 39#39: *17448 close http connection: 3
+2020/04/11 21:24:47 [debug] 39#39: *17448 reusable connection: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 accept: 127.0.0.1:43536 fd:3
+2020/04/11 21:24:47 [debug] 39#39: *17448 free: 000055A06F660A60
+2020/04/11 21:24:47 [debug] 39#39: *17448 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:47 [debug] 40#40: *17449 event timer add: 3: 60000:1436121502
+2020/04/11 21:24:47 [debug] 40#40: *17449 reusable connection: 1
+2020/04/11 21:24:47 [debug] 40#40: *17449 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:47 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:47 [debug] 40#40: *17449 http wait request handler
+2020/04/11 21:24:47 [debug] 40#40: *17449 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:47 [debug] 40#40: *17449 recv: eof:0, avail:-1
+2020/04/11 21:24:47 [debug] 40#40: *17449 recv: fd:3 121 of 1024
+2020/04/11 21:24:47 [debug] 40#40: *17449 reusable connection: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:47 [debug] 40#40: *17449 http process request line
+2020/04/11 21:24:47 [debug] 40#40: *17449 http request line: "GET /is-dynamic-lb-initialized HTTP/1.1"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http uri: "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http args: ""
+2020/04/11 21:24:47 [debug] 40#40: *17449 http exten: ""
+2020/04/11 21:24:47 [debug] 40#40: *17449 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:47 [debug] 40#40: *17449 http process request header line
+2020/04/11 21:24:47 [debug] 40#40: *17449 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http header done
+2020/04/11 21:24:47 [debug] 40#40: *17449 event timer del: 3: 1436121502
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 rewrite phase: 1
+2020/04/11 21:24:47 [debug] 40#40: *17449 http script value: "internal"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http script set $proxy_upstream_name
+2020/04/11 21:24:47 [debug] 40#40: *17449 test location: "/"
+2020/04/11 21:24:47 [debug] 40#40: *17449 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 using configuration "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http cl:-1 max:1048576
+2020/04/11 21:24:47 [debug] 40#40: *17449 rewrite phase: 3
+2020/04/11 21:24:47 [debug] 40#40: *17449 rewrite phase: 4
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua rewrite handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:47 [debug] 40#40: *17449 post rewrite phase: 5
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 6
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 7
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 8
+2020/04/11 21:24:47 [debug] 40#40: *17449 access phase: 9
+2020/04/11 21:24:47 [debug] 40#40: *17449 access phase: 10
+2020/04/11 21:24:47 [debug] 40#40: *17449 access phase: 11
+2020/04/11 21:24:47 [debug] 40#40: *17449 access phase: 12
+2020/04/11 21:24:47 [debug] 40#40: *17449 post access phase: 13
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 14
+2020/04/11 21:24:47 [debug] 40#40: *17449 generic phase: 15
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua content handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:47 [debug] 40#40: *17449 looking up Lua code cache with key '=content_by_lua(nginx.conf:1252)nhli_4de4d54bf85d85571ef803b53297d9b8'
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua reset ctx
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua creating new thread
+2020/04/11 21:24:47 [debug] 40#40: *17449 http cleanup add: 000055A06F6E6870
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua allocate new chainlink and new buf of size 3, cl:000055A06F6E6888
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua say response
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua header filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua capture header filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:47 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+
+2020/04/11 21:24:47 [debug] 40#40: *17449 write new buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http write filter: l:0 f:0 s:150
+2020/04/11 21:24:47 [debug] 40#40: *17449 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http postpone filter "/is-dynamic-lb-initialized?" 000055A06F6E6888
+2020/04/11 21:24:47 [debug] 40#40: *17449 http brotli filter
+2020/04/11 21:24:47 [debug] 40#40: *17449 http chunk: 3
+2020/04/11 21:24:47 [debug] 40#40: *17449 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write new buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write new buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write new buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http write filter: l:0 f:0 s:158
+2020/04/11 21:24:47 [debug] 40#40: *17449 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua exit with code 200
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua resume returned 1
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua thread yielded
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua thread aborting request with status 200
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http set discard body
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua sending last buf of the response body
+2020/04/11 21:24:47 [debug] 40#40: *17449 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http postpone filter "/is-dynamic-lb-initialized?" 00007FFC8FEDBB70
+2020/04/11 21:24:47 [debug] 40#40: *17449 http brotli filter
+2020/04/11 21:24:47 [debug] 40#40: *17449 http chunk: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write old buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write old buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write old buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 write new buf t:0 f:0 0000000000000000, pos 000055A06E128169, size: 5 file: 0, size: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http write filter: l:1 f:0 s:163
+2020/04/11 21:24:47 [debug] 40#40: *17449 http write filter limit 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 writev: 163 of 163
+2020/04/11 21:24:47 [debug] 40#40: *17449 http write filter 0000000000000000
+2020/04/11 21:24:47 [debug] 40#40: *17449 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:47 [debug] 40#40: *17449 http finalize request: 0, "/is-dynamic-lb-initialized?" a:1, c:1
+2020/04/11 21:24:47 [debug] 40#40: *17449 http request count:1 blk:0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http close request
+2020/04/11 21:24:47 [debug] 40#40: *17449 lua log handler, uri:"/is-dynamic-lb-initialized" c:0
+2020/04/11 21:24:47 [debug] 40#40: *17449 http log handler
+2020/04/11 21:24:47 [debug] 40#40: *17449 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 free: 000055A06F6E68E0, unused: 1624
+2020/04/11 21:24:47 [debug] 40#40: *17449 close http connection: 3
+2020/04/11 21:24:47 [debug] 40#40: *17449 reusable connection: 0
+2020/04/11 21:24:47 [debug] 40#40: *17449 free: 000055A06F660A60
+2020/04/11 21:24:47 [debug] 40#40: *17449 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:47 [debug] 39#39: *17450 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 39#39: *17450 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 39#39: *17450 lua resume returned 0
+2020/04/11 21:24:47 [debug] 39#39: *17450 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 39#39: *17450 lua deleting light thread
+2020/04/11 21:24:47 [debug] 39#39: *17450 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 39#39: *17450 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 39#39: *17450 http lua close fake request
+2020/04/11 21:24:47 [debug] 39#39: *17450 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 39#39: *17450 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:47 [debug] 39#39: *17451 http cleanup add: 000055A06F661230
+2020/04/11 21:24:47 [debug] 39#39: *17451 lua run thread, top:0 c:1
+2020/04/11 21:24:47 [debug] 39#39: *17451 lua resume returned 0
+2020/04/11 21:24:47 [debug] 39#39: *17451 lua light thread ended normally
+2020/04/11 21:24:47 [debug] 39#39: *17451 lua deleting light thread
+2020/04/11 21:24:47 [debug] 39#39: *17451 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:47 [debug] 39#39: *17451 http lua fake request count:1
+2020/04/11 21:24:47 [debug] 39#39: *17451 http lua close fake request
+2020/04/11 21:24:47 [debug] 39#39: *17451 lua request cleanup: forcible=0
+2020/04/11 21:24:47 [debug] 39#39: *17451 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:48 [debug] 41#41: accept on 0.0.0.0:80, ready: 1
+2020/04/11 21:24:48 [debug] 41#41: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:48 [debug] 41#41: *17453 accept: 10.10.200.7:43092 fd:3
+2020/04/11 21:24:48 [debug] 41#41: *17453 event timer add: 3: 60000:1436122150
+2020/04/11 21:24:48 [debug] 41#41: *17453 reusable connection: 1
+2020/04/11 21:24:48 [debug] 41#41: *17453 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:48 [debug] 41#41: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:48 [debug] 41#41: accept on 0.0.0.0:443, ready: 1
+2020/04/11 21:24:48 [debug] 41#41: posix_memalign: 000055A06F660A60:512 @16
+2020/04/11 21:24:48 [debug] 41#41: *17454 accept: 10.10.200.7:52614 fd:25
+2020/04/11 21:24:48 [debug] 41#41: *17454 event timer add: 25: 60000:1436122150
+2020/04/11 21:24:48 [debug] 41#41: *17454 reusable connection: 1
+2020/04/11 21:24:48 [debug] 41#41: *17454 epoll add event: fd:25 op:1 ev:80002001
+2020/04/11 21:24:48 [debug] 41#41: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:48 [debug] 41#41: *17453 http wait request handler
+2020/04/11 21:24:48 [debug] 41#41: *17453 malloc: 000055A06F660C80:1024
+2020/04/11 21:24:48 [debug] 41#41: *17453 recv: eof:1, avail:-1
+2020/04/11 21:24:48 [debug] 41#41: *17453 recv: fd:3 0 of 1024
+2020/04/11 21:24:48 [info] 41#41: *17453 client closed connection while waiting for request, client: 10.10.200.7, server: 0.0.0.0:80
+2020/04/11 21:24:48 [debug] 41#41: *17453 close http connection: 3
+2020/04/11 21:24:48 [debug] 41#41: *17453 event timer del: 3: 1436122150
+2020/04/11 21:24:48 [debug] 41#41: *17453 reusable connection: 0
+2020/04/11 21:24:48 [debug] 41#41: *17453 free: 000055A06F660C80
+2020/04/11 21:24:48 [debug] 41#41: *17453 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:48 [debug] 41#41: *17454 http check ssl handshake
+2020/04/11 21:24:48 [debug] 41#41: *17454 http recv(): 0
+2020/04/11 21:24:48 [info] 41#41: *17454 client closed connection while SSL handshaking, client: 10.10.200.7, server: 0.0.0.0:443
+2020/04/11 21:24:48 [debug] 41#41: *17454 close http connection: 25
+2020/04/11 21:24:48 [debug] 41#41: *17454 event timer del: 25: 1436122150
+2020/04/11 21:24:48 [debug] 41#41: *17454 reusable connection: 0
+2020/04/11 21:24:48 [debug] 41#41: *17454 free: 000055A06F660A60, unused: 232
+2020/04/11 21:24:48 [debug] 41#41: *17455 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 41#41: *17455 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 41#41: *17455 lua resume returned 0
+2020/04/11 21:24:48 [debug] 41#41: *17455 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 41#41: *17455 lua deleting light thread
+2020/04/11 21:24:48 [debug] 41#41: *17455 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 41#41: *17455 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 41#41: *17455 http lua close fake request
+2020/04/11 21:24:48 [debug] 41#41: *17455 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 41#41: *17455 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:48 [debug] 41#41: *17456 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 41#41: *17456 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 41#41: *17456 lua resume returned 0
+2020/04/11 21:24:48 [debug] 41#41: *17456 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 41#41: *17456 lua deleting light thread
+2020/04/11 21:24:48 [debug] 41#41: *17456 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 41#41: *17456 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 41#41: *17456 http lua close fake request
+2020/04/11 21:24:48 [debug] 41#41: *17456 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 41#41: *17456 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:48 [debug] 42#42: *17458 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 42#42: *17458 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 42#42: *17458 lua resume returned 0
+2020/04/11 21:24:48 [debug] 42#42: *17458 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 42#42: *17458 lua deleting light thread
+2020/04/11 21:24:48 [debug] 42#42: *17458 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 42#42: *17458 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 42#42: *17458 http lua close fake request
+2020/04/11 21:24:48 [debug] 42#42: *17458 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 42#42: *17458 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:48 [debug] 42#42: *17459 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 42#42: *17459 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 42#42: *17459 lua resume returned 0
+2020/04/11 21:24:48 [debug] 42#42: *17459 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 42#42: *17459 lua deleting light thread
+2020/04/11 21:24:48 [debug] 42#42: *17459 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 42#42: *17459 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 42#42: *17459 http lua close fake request
+2020/04/11 21:24:48 [debug] 42#42: *17459 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 42#42: *17459 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:48 [debug] 40#40: *17461 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 40#40: *17461 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 40#40: *17461 lua resume returned 0
+2020/04/11 21:24:48 [debug] 40#40: *17461 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 40#40: *17461 lua deleting light thread
+2020/04/11 21:24:48 [debug] 40#40: *17461 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 40#40: *17461 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 40#40: *17461 http lua close fake request
+2020/04/11 21:24:48 [debug] 40#40: *17461 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 40#40: *17461 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:48 [debug] 40#40: *17462 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 40#40: *17462 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 40#40: *17462 lua resume returned 0
+2020/04/11 21:24:48 [debug] 40#40: *17462 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 40#40: *17462 lua deleting light thread
+2020/04/11 21:24:48 [debug] 40#40: *17462 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 40#40: *17462 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 40#40: *17462 http lua close fake request
+2020/04/11 21:24:48 [debug] 40#40: *17462 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 40#40: *17462 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:48 [debug] 39#39: *17464 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 39#39: *17464 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 39#39: *17464 lua resume returned 0
+2020/04/11 21:24:48 [debug] 39#39: *17464 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 39#39: *17464 lua deleting light thread
+2020/04/11 21:24:48 [debug] 39#39: *17464 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 39#39: *17464 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 39#39: *17464 http lua close fake request
+2020/04/11 21:24:48 [debug] 39#39: *17464 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 39#39: *17464 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:48 [debug] 39#39: *17465 http cleanup add: 000055A06F661230
+2020/04/11 21:24:48 [debug] 39#39: *17465 lua run thread, top:0 c:1
+2020/04/11 21:24:48 [debug] 39#39: *17465 lua resume returned 0
+2020/04/11 21:24:48 [debug] 39#39: *17465 lua light thread ended normally
+2020/04/11 21:24:48 [debug] 39#39: *17465 lua deleting light thread
+2020/04/11 21:24:48 [debug] 39#39: *17465 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:48 [debug] 39#39: *17465 http lua fake request count:1
+2020/04/11 21:24:48 [debug] 39#39: *17465 http lua close fake request
+2020/04/11 21:24:48 [debug] 39#39: *17465 lua request cleanup: forcible=0
+2020/04/11 21:24:48 [debug] 39#39: *17465 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:48 [debug] 41#41: accept on 0.0.0.0:80, ready: 1
+2020/04/11 21:24:48 [debug] 41#41: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:48 [debug] 41#41: *17467 accept: 10.10.200.9:37322 fd:3
+2020/04/11 21:24:48 [debug] 41#41: *17467 event timer add: 3: 60000:1436122722
+2020/04/11 21:24:48 [debug] 41#41: *17467 reusable connection: 1
+2020/04/11 21:24:48 [debug] 41#41: *17467 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:48 [debug] 41#41: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:48 [debug] 41#41: *17467 http wait request handler
+2020/04/11 21:24:48 [debug] 41#41: *17467 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:48 [debug] 41#41: *17467 recv: eof:1, avail:-1
+2020/04/11 21:24:48 [debug] 41#41: *17467 recv: fd:3 0 of 1024
+2020/04/11 21:24:48 [info] 41#41: *17467 client closed connection while waiting for request, client: 10.10.200.9, server: 0.0.0.0:80
+2020/04/11 21:24:48 [debug] 41#41: *17467 close http connection: 3
+2020/04/11 21:24:48 [debug] 41#41: *17467 event timer del: 3: 1436122722
+2020/04/11 21:24:48 [debug] 41#41: *17467 reusable connection: 0
+2020/04/11 21:24:48 [debug] 41#41: *17467 free: 000055A06F660A60
+2020/04/11 21:24:48 [debug] 41#41: *17467 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:48 [debug] 42#42: accept on 0.0.0.0:443, ready: 1
+2020/04/11 21:24:48 [debug] 42#42: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:48 [debug] 42#42: *17468 accept: 10.10.200.9:39330 fd:3
+2020/04/11 21:24:48 [debug] 42#42: *17468 event timer add: 3: 60000:1436122722
+2020/04/11 21:24:48 [debug] 42#42: *17468 reusable connection: 1
+2020/04/11 21:24:48 [debug] 42#42: *17468 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:48 [debug] 42#42: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:48 [debug] 42#42: *17468 http check ssl handshake
+2020/04/11 21:24:48 [debug] 42#42: *17468 http recv(): 0
+2020/04/11 21:24:48 [info] 42#42: *17468 client closed connection while SSL handshaking, client: 10.10.200.9, server: 0.0.0.0:443
+2020/04/11 21:24:48 [debug] 42#42: *17468 close http connection: 3
+2020/04/11 21:24:48 [debug] 42#42: *17468 event timer del: 3: 1436122722
+2020/04/11 21:24:48 [debug] 42#42: *17468 reusable connection: 0
+2020/04/11 21:24:48 [debug] 42#42: *17468 free: 000055A06F660840, unused: 232
+2020/04/11 21:24:49 [debug] 41#41: *17469 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 41#41: *17469 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 41#41: *17469 lua resume returned 0
+2020/04/11 21:24:49 [debug] 41#41: *17469 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 41#41: *17469 lua deleting light thread
+2020/04/11 21:24:49 [debug] 41#41: *17469 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 41#41: *17469 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 41#41: *17469 http lua close fake request
+2020/04/11 21:24:49 [debug] 41#41: *17469 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 41#41: *17469 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:49 [debug] 41#41: *17470 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 41#41: *17470 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 41#41: *17470 lua resume returned 0
+2020/04/11 21:24:49 [debug] 41#41: *17470 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 41#41: *17470 lua deleting light thread
+2020/04/11 21:24:49 [debug] 41#41: *17470 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 41#41: *17470 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 41#41: *17470 http lua close fake request
+2020/04/11 21:24:49 [debug] 41#41: *17470 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 41#41: *17470 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:49 [debug] 42#42: *17472 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 42#42: *17472 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 42#42: *17472 lua resume returned 0
+2020/04/11 21:24:49 [debug] 42#42: *17472 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 42#42: *17472 lua deleting light thread
+2020/04/11 21:24:49 [debug] 42#42: *17472 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 42#42: *17472 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 42#42: *17472 http lua close fake request
+2020/04/11 21:24:49 [debug] 42#42: *17472 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 42#42: *17472 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:49 [debug] 42#42: *17473 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 42#42: *17473 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 42#42: *17473 lua resume returned 0
+2020/04/11 21:24:49 [debug] 42#42: *17473 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 42#42: *17473 lua deleting light thread
+2020/04/11 21:24:49 [debug] 42#42: *17473 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 42#42: *17473 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 42#42: *17473 http lua close fake request
+2020/04/11 21:24:49 [debug] 42#42: *17473 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 42#42: *17473 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:49 [debug] 40#40: *17475 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 40#40: *17475 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 40#40: *17475 lua resume returned 0
+2020/04/11 21:24:49 [debug] 40#40: *17475 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 40#40: *17475 lua deleting light thread
+2020/04/11 21:24:49 [debug] 40#40: *17475 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 40#40: *17475 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 40#40: *17475 http lua close fake request
+2020/04/11 21:24:49 [debug] 40#40: *17475 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 40#40: *17475 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:49 [debug] 40#40: *17476 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 40#40: *17476 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 40#40: *17476 lua resume returned 0
+2020/04/11 21:24:49 [debug] 40#40: *17476 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 40#40: *17476 lua deleting light thread
+2020/04/11 21:24:49 [debug] 40#40: *17476 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 40#40: *17476 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 40#40: *17476 http lua close fake request
+2020/04/11 21:24:49 [debug] 40#40: *17476 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 40#40: *17476 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:49 [debug] 39#39: *17478 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 39#39: *17478 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 39#39: *17478 lua resume returned 0
+2020/04/11 21:24:49 [debug] 39#39: *17478 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 39#39: *17478 lua deleting light thread
+2020/04/11 21:24:49 [debug] 39#39: *17478 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 39#39: *17478 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 39#39: *17478 http lua close fake request
+2020/04/11 21:24:49 [debug] 39#39: *17478 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 39#39: *17478 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:49 [debug] 39#39: *17479 http cleanup add: 000055A06F661230
+2020/04/11 21:24:49 [debug] 39#39: *17479 lua run thread, top:0 c:1
+2020/04/11 21:24:49 [debug] 39#39: *17479 lua resume returned 0
+2020/04/11 21:24:49 [debug] 39#39: *17479 lua light thread ended normally
+2020/04/11 21:24:49 [debug] 39#39: *17479 lua deleting light thread
+2020/04/11 21:24:49 [debug] 39#39: *17479 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:49 [debug] 39#39: *17479 http lua fake request count:1
+2020/04/11 21:24:49 [debug] 39#39: *17479 http lua close fake request
+2020/04/11 21:24:49 [debug] 39#39: *17479 lua request cleanup: forcible=0
+2020/04/11 21:24:49 [debug] 39#39: *17479 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:50 [debug] 41#41: *17481 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 41#41: *17481 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 41#41: *17481 lua resume returned 0
+2020/04/11 21:24:50 [debug] 41#41: *17481 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 41#41: *17481 lua deleting light thread
+2020/04/11 21:24:50 [debug] 41#41: *17481 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 41#41: *17481 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 41#41: *17481 http lua close fake request
+2020/04/11 21:24:50 [debug] 41#41: *17481 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 41#41: *17481 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:50 [debug] 41#41: *17482 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 41#41: *17482 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 41#41: *17482 lua resume returned 0
+2020/04/11 21:24:50 [debug] 41#41: *17482 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 41#41: *17482 lua deleting light thread
+2020/04/11 21:24:50 [debug] 41#41: *17482 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 41#41: *17482 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 41#41: *17482 http lua close fake request
+2020/04/11 21:24:50 [debug] 41#41: *17482 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 41#41: *17482 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:50 [debug] 42#42: *17484 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 42#42: *17484 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 42#42: *17484 lua resume returned 0
+2020/04/11 21:24:50 [debug] 42#42: *17484 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 42#42: *17484 lua deleting light thread
+2020/04/11 21:24:50 [debug] 42#42: *17484 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 42#42: *17484 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 42#42: *17484 http lua close fake request
+2020/04/11 21:24:50 [debug] 42#42: *17484 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 42#42: *17484 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:50 [debug] 42#42: *17485 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 42#42: *17485 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 42#42: *17485 lua resume returned 0
+2020/04/11 21:24:50 [debug] 42#42: *17485 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 42#42: *17485 lua deleting light thread
+2020/04/11 21:24:50 [debug] 42#42: *17485 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 42#42: *17485 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 42#42: *17485 http lua close fake request
+2020/04/11 21:24:50 [debug] 42#42: *17485 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 42#42: *17485 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:50 [debug] 40#40: *17487 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 40#40: *17487 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 40#40: *17487 lua resume returned 0
+2020/04/11 21:24:50 [debug] 40#40: *17487 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 40#40: *17487 lua deleting light thread
+2020/04/11 21:24:50 [debug] 40#40: *17487 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 40#40: *17487 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 40#40: *17487 http lua close fake request
+2020/04/11 21:24:50 [debug] 40#40: *17487 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 40#40: *17487 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:50 [debug] 40#40: *17488 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 40#40: *17488 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 40#40: *17488 lua resume returned 0
+2020/04/11 21:24:50 [debug] 40#40: *17488 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 40#40: *17488 lua deleting light thread
+2020/04/11 21:24:50 [debug] 40#40: *17488 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 40#40: *17488 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 40#40: *17488 http lua close fake request
+2020/04/11 21:24:50 [debug] 40#40: *17488 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 40#40: *17488 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:50 [debug] 39#39: *17490 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 39#39: *17490 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 39#39: *17490 lua resume returned 0
+2020/04/11 21:24:50 [debug] 39#39: *17490 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 39#39: *17490 lua deleting light thread
+2020/04/11 21:24:50 [debug] 39#39: *17490 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 39#39: *17490 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 39#39: *17490 http lua close fake request
+2020/04/11 21:24:50 [debug] 39#39: *17490 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 39#39: *17490 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:50 [debug] 39#39: *17491 http cleanup add: 000055A06F661230
+2020/04/11 21:24:50 [debug] 39#39: *17491 lua run thread, top:0 c:1
+2020/04/11 21:24:50 [debug] 39#39: *17491 lua resume returned 0
+2020/04/11 21:24:50 [debug] 39#39: *17491 lua light thread ended normally
+2020/04/11 21:24:50 [debug] 39#39: *17491 lua deleting light thread
+2020/04/11 21:24:50 [debug] 39#39: *17491 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:50 [debug] 39#39: *17491 http lua fake request count:1
+2020/04/11 21:24:50 [debug] 39#39: *17491 http lua close fake request
+2020/04/11 21:24:50 [debug] 39#39: *17491 lua request cleanup: forcible=0
+2020/04/11 21:24:50 [debug] 39#39: *17491 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:51 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:51 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:51 [debug] 39#39: *17493 accept: 127.0.0.1:43560 fd:3
+2020/04/11 21:24:51 [debug] 39#39: *17493 event timer add: 3: 60000:1436124878
+2020/04/11 21:24:51 [debug] 39#39: *17493 reusable connection: 1
+2020/04/11 21:24:51 [debug] 39#39: *17493 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:51 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:51 [debug] 39#39: *17493 http wait request handler
+2020/04/11 21:24:51 [debug] 39#39: *17493 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:51 [debug] 39#39: *17493 recv: eof:0, avail:-1
+2020/04/11 21:24:51 [debug] 39#39: *17493 recv: fd:3 103 of 1024
+2020/04/11 21:24:51 [debug] 39#39: *17493 reusable connection: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:51 [debug] 39#39: *17493 http process request line
+2020/04/11 21:24:51 [debug] 39#39: *17493 http request line: "GET /healthz HTTP/1.1"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http uri: "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http args: ""
+2020/04/11 21:24:51 [debug] 39#39: *17493 http exten: ""
+2020/04/11 21:24:51 [debug] 39#39: *17493 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:51 [debug] 39#39: *17493 http process request header line
+2020/04/11 21:24:51 [debug] 39#39: *17493 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http header done
+2020/04/11 21:24:51 [debug] 39#39: *17493 event timer del: 3: 1436124878
+2020/04/11 21:24:51 [debug] 39#39: *17493 generic phase: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 rewrite phase: 1
+2020/04/11 21:24:51 [debug] 39#39: *17493 http script value: "internal"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http script set $proxy_upstream_name
+2020/04/11 21:24:51 [debug] 39#39: *17493 test location: "/"
+2020/04/11 21:24:51 [debug] 39#39: *17493 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 39#39: *17493 test location: "healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 using configuration "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http cl:-1 max:1048576
+2020/04/11 21:24:51 [debug] 39#39: *17493 rewrite phase: 3
+2020/04/11 21:24:51 [debug] 39#39: *17493 http set discard body
+2020/04/11 21:24:51 [debug] 39#39: *17493 lua header filter for user lua code, uri "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 lua capture header filter, uri "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:51 GMT
+Content-Type: text/html
+Content-Length: 0
+Connection: close
+
+2020/04/11 21:24:51 [debug] 39#39: *17493 write new buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 http write filter: l:0 f:0 s:141
+2020/04/11 21:24:51 [debug] 39#39: *17493 http output filter "/healthz?"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http copy filter: "/healthz?"
+2020/04/11 21:24:51 [debug] 39#39: *17493 lua body filter for user lua code, uri "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 lua capture body filter, uri "/healthz"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http postpone filter "/healthz?" 00007FFC8FEDBCF0
+2020/04/11 21:24:51 [debug] 39#39: *17493 http brotli filter
+2020/04/11 21:24:51 [debug] 39#39: *17493 write old buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 write new buf t:0 f:0 0000000000000000, pos 0000000000000000, size: 0 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 http write filter: l:1 f:0 s:141
+2020/04/11 21:24:51 [debug] 39#39: *17493 http write filter limit 0
+2020/04/11 21:24:51 [debug] 40#40: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:51 [debug] 40#40: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:51 [debug] 40#40: *17494 accept: 127.0.0.1:43562 fd:3
+2020/04/11 21:24:51 [debug] 40#40: *17494 event timer add: 3: 60000:1436124878
+2020/04/11 21:24:51 [debug] 40#40: *17494 reusable connection: 1
+2020/04/11 21:24:51 [debug] 40#40: *17494 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:51 [debug] 39#39: *17493 writev: 141 of 141
+2020/04/11 21:24:51 [debug] 39#39: *17493 http write filter 0000000000000000
+2020/04/11 21:24:51 [debug] 39#39: *17493 http copy filter: 0 "/healthz?"
+2020/04/11 21:24:51 [debug] 39#39: *17493 http finalize request: 0, "/healthz?" a:1, c:1
+2020/04/11 21:24:51 [debug] 39#39: *17493 http request count:1 blk:0
+2020/04/11 21:24:51 [debug] 39#39: *17493 http close request
+2020/04/11 21:24:51 [debug] 39#39: *17493 lua log handler, uri:"/healthz" c:0
+2020/04/11 21:24:51 [debug] 39#39: *17493 http log handler
+2020/04/11 21:24:51 [debug] 39#39: *17493 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 free: 000055A06F6E68E0, unused: 2288
+2020/04/11 21:24:51 [debug] 39#39: *17493 close http connection: 3
+2020/04/11 21:24:51 [debug] 39#39: *17493 reusable connection: 0
+2020/04/11 21:24:51 [debug] 39#39: *17493 free: 000055A06F660A60
+2020/04/11 21:24:51 [debug] 39#39: *17493 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:51 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:51 [debug] 40#40: *17494 http wait request handler
+2020/04/11 21:24:51 [debug] 40#40: *17494 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:51 [debug] 40#40: *17494 recv: eof:0, avail:-1
+2020/04/11 21:24:51 [debug] 40#40: *17494 recv: fd:3 121 of 1024
+2020/04/11 21:24:51 [debug] 40#40: *17494 reusable connection: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:51 [debug] 40#40: *17494 http process request line
+2020/04/11 21:24:51 [debug] 40#40: *17494 http request line: "GET /is-dynamic-lb-initialized HTTP/1.1"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http uri: "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http args: ""
+2020/04/11 21:24:51 [debug] 40#40: *17494 http exten: ""
+2020/04/11 21:24:51 [debug] 40#40: *17494 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:51 [debug] 40#40: *17494 http process request header line
+2020/04/11 21:24:51 [debug] 40#40: *17494 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http header done
+2020/04/11 21:24:51 [debug] 40#40: *17494 event timer del: 3: 1436124878
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 rewrite phase: 1
+2020/04/11 21:24:51 [debug] 40#40: *17494 http script value: "internal"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http script set $proxy_upstream_name
+2020/04/11 21:24:51 [debug] 40#40: *17494 test location: "/"
+2020/04/11 21:24:51 [debug] 40#40: *17494 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 using configuration "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http cl:-1 max:1048576
+2020/04/11 21:24:51 [debug] 40#40: *17494 rewrite phase: 3
+2020/04/11 21:24:51 [debug] 40#40: *17494 rewrite phase: 4
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua rewrite handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:51 [debug] 40#40: *17494 post rewrite phase: 5
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 6
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 7
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 8
+2020/04/11 21:24:51 [debug] 40#40: *17494 access phase: 9
+2020/04/11 21:24:51 [debug] 40#40: *17494 access phase: 10
+2020/04/11 21:24:51 [debug] 40#40: *17494 access phase: 11
+2020/04/11 21:24:51 [debug] 40#40: *17494 access phase: 12
+2020/04/11 21:24:51 [debug] 40#40: *17494 post access phase: 13
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 14
+2020/04/11 21:24:51 [debug] 40#40: *17494 generic phase: 15
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua content handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:51 [debug] 40#40: *17494 looking up Lua code cache with key '=content_by_lua(nginx.conf:1252)nhli_4de4d54bf85d85571ef803b53297d9b8'
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua reset ctx
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua creating new thread
+2020/04/11 21:24:51 [debug] 40#40: *17494 http cleanup add: 000055A06F6E6870
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua allocate new chainlink and new buf of size 3, cl:000055A06F6E6888
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua say response
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua header filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua capture header filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:51 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+
+2020/04/11 21:24:51 [debug] 40#40: *17494 write new buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http write filter: l:0 f:0 s:150
+2020/04/11 21:24:51 [debug] 40#40: *17494 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http postpone filter "/is-dynamic-lb-initialized?" 000055A06F6E6888
+2020/04/11 21:24:51 [debug] 40#40: *17494 http brotli filter
+2020/04/11 21:24:51 [debug] 40#40: *17494 http chunk: 3
+2020/04/11 21:24:51 [debug] 40#40: *17494 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write new buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write new buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write new buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http write filter: l:0 f:0 s:158
+2020/04/11 21:24:51 [debug] 40#40: *17494 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua exit with code 200
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua resume returned 1
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua thread yielded
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua thread aborting request with status 200
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http set discard body
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua sending last buf of the response body
+2020/04/11 21:24:51 [debug] 40#40: *17494 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http postpone filter "/is-dynamic-lb-initialized?" 00007FFC8FEDBB70
+2020/04/11 21:24:51 [debug] 40#40: *17494 http brotli filter
+2020/04/11 21:24:51 [debug] 40#40: *17494 http chunk: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write old buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write old buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write old buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 write new buf t:0 f:0 0000000000000000, pos 000055A06E128169, size: 5 file: 0, size: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http write filter: l:1 f:0 s:163
+2020/04/11 21:24:51 [debug] 40#40: *17494 http write filter limit 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 writev: 163 of 163
+2020/04/11 21:24:51 [debug] 40#40: *17494 http write filter 0000000000000000
+2020/04/11 21:24:51 [debug] 40#40: *17494 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:51 [debug] 40#40: *17494 http finalize request: 0, "/is-dynamic-lb-initialized?" a:1, c:1
+2020/04/11 21:24:51 [debug] 40#40: *17494 http request count:1 blk:0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http close request
+2020/04/11 21:24:51 [debug] 40#40: *17494 lua log handler, uri:"/is-dynamic-lb-initialized" c:0
+2020/04/11 21:24:51 [debug] 40#40: *17494 http log handler
+2020/04/11 21:24:51 [debug] 40#40: *17494 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 free: 000055A06F6E68E0, unused: 1624
+2020/04/11 21:24:51 [debug] 40#40: *17494 close http connection: 3
+2020/04/11 21:24:51 [debug] 40#40: *17494 reusable connection: 0
+2020/04/11 21:24:51 [debug] 40#40: *17494 free: 000055A06F660A60
+2020/04/11 21:24:51 [debug] 40#40: *17494 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:51 [debug] 41#41: *17495 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 41#41: *17495 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 41#41: *17495 lua resume returned 0
+2020/04/11 21:24:51 [debug] 41#41: *17495 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 41#41: *17495 lua deleting light thread
+2020/04/11 21:24:51 [debug] 41#41: *17495 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 41#41: *17495 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 41#41: *17495 http lua close fake request
+2020/04/11 21:24:51 [debug] 41#41: *17495 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 41#41: *17495 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:51 [debug] 41#41: *17496 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 41#41: *17496 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 41#41: *17496 lua resume returned 0
+2020/04/11 21:24:51 [debug] 41#41: *17496 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 41#41: *17496 lua deleting light thread
+2020/04/11 21:24:51 [debug] 41#41: *17496 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 41#41: *17496 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 41#41: *17496 http lua close fake request
+2020/04/11 21:24:51 [debug] 41#41: *17496 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 41#41: *17496 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:51 [debug] 42#42: *17498 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 42#42: *17498 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 42#42: *17498 lua resume returned 0
+2020/04/11 21:24:51 [debug] 42#42: *17498 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 42#42: *17498 lua deleting light thread
+2020/04/11 21:24:51 [debug] 42#42: *17498 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 42#42: *17498 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 42#42: *17498 http lua close fake request
+2020/04/11 21:24:51 [debug] 42#42: *17498 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 42#42: *17498 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:51 [debug] 42#42: *17499 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 42#42: *17499 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 42#42: *17499 lua resume returned 0
+2020/04/11 21:24:51 [debug] 42#42: *17499 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 42#42: *17499 lua deleting light thread
+2020/04/11 21:24:51 [debug] 42#42: *17499 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 42#42: *17499 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 42#42: *17499 http lua close fake request
+2020/04/11 21:24:51 [debug] 42#42: *17499 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 42#42: *17499 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:51 [debug] 40#40: *17501 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 40#40: *17501 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 40#40: *17501 lua resume returned 0
+2020/04/11 21:24:51 [debug] 40#40: *17501 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 40#40: *17501 lua deleting light thread
+2020/04/11 21:24:51 [debug] 40#40: *17501 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 40#40: *17501 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 40#40: *17501 http lua close fake request
+2020/04/11 21:24:51 [debug] 40#40: *17501 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 40#40: *17501 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:51 [debug] 40#40: *17502 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 40#40: *17502 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 40#40: *17502 lua resume returned 0
+2020/04/11 21:24:51 [debug] 40#40: *17502 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 40#40: *17502 lua deleting light thread
+2020/04/11 21:24:51 [debug] 40#40: *17502 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 40#40: *17502 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 40#40: *17502 http lua close fake request
+2020/04/11 21:24:51 [debug] 40#40: *17502 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 40#40: *17502 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:51 [debug] 39#39: *17504 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 39#39: *17504 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 39#39: *17504 lua resume returned 0
+2020/04/11 21:24:51 [debug] 39#39: *17504 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 39#39: *17504 lua deleting light thread
+2020/04/11 21:24:51 [debug] 39#39: *17504 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 39#39: *17504 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 39#39: *17504 http lua close fake request
+2020/04/11 21:24:51 [debug] 39#39: *17504 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 39#39: *17504 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:51 [debug] 39#39: *17505 http cleanup add: 000055A06F661230
+2020/04/11 21:24:51 [debug] 39#39: *17505 lua run thread, top:0 c:1
+2020/04/11 21:24:51 [debug] 39#39: *17505 lua resume returned 0
+2020/04/11 21:24:51 [debug] 39#39: *17505 lua light thread ended normally
+2020/04/11 21:24:51 [debug] 39#39: *17505 lua deleting light thread
+2020/04/11 21:24:51 [debug] 39#39: *17505 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:51 [debug] 39#39: *17505 http lua fake request count:1
+2020/04/11 21:24:51 [debug] 39#39: *17505 http lua close fake request
+2020/04/11 21:24:51 [debug] 39#39: *17505 lua request cleanup: forcible=0
+2020/04/11 21:24:51 [debug] 39#39: *17505 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:52 [debug] 41#41: *17507 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 41#41: *17507 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 41#41: *17507 lua resume returned 0
+2020/04/11 21:24:52 [debug] 41#41: *17507 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 41#41: *17507 lua deleting light thread
+2020/04/11 21:24:52 [debug] 41#41: *17507 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 41#41: *17507 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 41#41: *17507 http lua close fake request
+2020/04/11 21:24:52 [debug] 41#41: *17507 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 41#41: *17507 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:52 [debug] 41#41: *17508 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 41#41: *17508 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 41#41: *17508 lua resume returned 0
+2020/04/11 21:24:52 [debug] 41#41: *17508 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 41#41: *17508 lua deleting light thread
+2020/04/11 21:24:52 [debug] 41#41: *17508 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 41#41: *17508 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 41#41: *17508 http lua close fake request
+2020/04/11 21:24:52 [debug] 41#41: *17508 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 41#41: *17508 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:52 [debug] 42#42: *17510 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 42#42: *17510 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 42#42: *17510 lua resume returned 0
+2020/04/11 21:24:52 [debug] 42#42: *17510 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 42#42: *17510 lua deleting light thread
+2020/04/11 21:24:52 [debug] 42#42: *17510 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 42#42: *17510 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 42#42: *17510 http lua close fake request
+2020/04/11 21:24:52 [debug] 42#42: *17510 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 42#42: *17510 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:52 [debug] 42#42: *17511 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 42#42: *17511 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 42#42: *17511 lua resume returned 0
+2020/04/11 21:24:52 [debug] 42#42: *17511 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 42#42: *17511 lua deleting light thread
+2020/04/11 21:24:52 [debug] 42#42: *17511 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 42#42: *17511 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 42#42: *17511 http lua close fake request
+2020/04/11 21:24:52 [debug] 42#42: *17511 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 42#42: *17511 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:52 [debug] 40#40: *17513 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 40#40: *17513 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 40#40: *17513 lua resume returned 0
+2020/04/11 21:24:52 [debug] 40#40: *17513 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 40#40: *17513 lua deleting light thread
+2020/04/11 21:24:52 [debug] 40#40: *17513 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 40#40: *17513 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 40#40: *17513 http lua close fake request
+2020/04/11 21:24:52 [debug] 40#40: *17513 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 40#40: *17513 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:52 [debug] 40#40: *17514 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 40#40: *17514 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 40#40: *17514 lua resume returned 0
+2020/04/11 21:24:52 [debug] 40#40: *17514 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 40#40: *17514 lua deleting light thread
+2020/04/11 21:24:52 [debug] 40#40: *17514 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 40#40: *17514 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 40#40: *17514 http lua close fake request
+2020/04/11 21:24:52 [debug] 40#40: *17514 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 40#40: *17514 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:52 [debug] 39#39: *17516 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 39#39: *17516 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 39#39: *17516 lua resume returned 0
+2020/04/11 21:24:52 [debug] 39#39: *17516 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 39#39: *17516 lua deleting light thread
+2020/04/11 21:24:52 [debug] 39#39: *17516 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 39#39: *17516 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 39#39: *17516 http lua close fake request
+2020/04/11 21:24:52 [debug] 39#39: *17516 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 39#39: *17516 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:52 [debug] 39#39: *17517 http cleanup add: 000055A06F661230
+2020/04/11 21:24:52 [debug] 39#39: *17517 lua run thread, top:0 c:1
+2020/04/11 21:24:52 [debug] 39#39: *17517 lua resume returned 0
+2020/04/11 21:24:52 [debug] 39#39: *17517 lua light thread ended normally
+2020/04/11 21:24:52 [debug] 39#39: *17517 lua deleting light thread
+2020/04/11 21:24:52 [debug] 39#39: *17517 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:52 [debug] 39#39: *17517 http lua fake request count:1
+2020/04/11 21:24:52 [debug] 39#39: *17517 http lua close fake request
+2020/04/11 21:24:52 [debug] 39#39: *17517 lua request cleanup: forcible=0
+2020/04/11 21:24:52 [debug] 39#39: *17517 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:53 [debug] 41#41: *17519 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 41#41: *17519 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 41#41: *17519 lua resume returned 0
+2020/04/11 21:24:53 [debug] 41#41: *17519 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 41#41: *17519 lua deleting light thread
+2020/04/11 21:24:53 [debug] 41#41: *17519 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 41#41: *17519 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 41#41: *17519 http lua close fake request
+2020/04/11 21:24:53 [debug] 41#41: *17519 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 41#41: *17519 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:53 [debug] 41#41: *17520 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 41#41: *17520 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 41#41: *17520 lua resume returned 0
+2020/04/11 21:24:53 [debug] 41#41: *17520 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 41#41: *17520 lua deleting light thread
+2020/04/11 21:24:53 [debug] 41#41: *17520 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 41#41: *17520 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 41#41: *17520 http lua close fake request
+2020/04/11 21:24:53 [debug] 41#41: *17520 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 41#41: *17520 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:53 [debug] 42#42: *17522 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 42#42: *17522 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 42#42: *17522 lua resume returned 0
+2020/04/11 21:24:53 [debug] 42#42: *17522 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 42#42: *17522 lua deleting light thread
+2020/04/11 21:24:53 [debug] 42#42: *17522 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 42#42: *17522 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 42#42: *17522 http lua close fake request
+2020/04/11 21:24:53 [debug] 42#42: *17522 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 42#42: *17522 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:53 [debug] 42#42: *17523 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 42#42: *17523 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 42#42: *17523 lua resume returned 0
+2020/04/11 21:24:53 [debug] 42#42: *17523 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 42#42: *17523 lua deleting light thread
+2020/04/11 21:24:53 [debug] 42#42: *17523 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 42#42: *17523 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 42#42: *17523 http lua close fake request
+2020/04/11 21:24:53 [debug] 42#42: *17523 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 42#42: *17523 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:53 [debug] 40#40: *17525 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 40#40: *17525 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 40#40: *17525 lua resume returned 0
+2020/04/11 21:24:53 [debug] 40#40: *17525 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 40#40: *17525 lua deleting light thread
+2020/04/11 21:24:53 [debug] 40#40: *17525 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 40#40: *17525 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 40#40: *17525 http lua close fake request
+2020/04/11 21:24:53 [debug] 40#40: *17525 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 40#40: *17525 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:53 [debug] 40#40: *17526 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 40#40: *17526 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 40#40: *17526 lua resume returned 0
+2020/04/11 21:24:53 [debug] 40#40: *17526 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 40#40: *17526 lua deleting light thread
+2020/04/11 21:24:53 [debug] 40#40: *17526 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 40#40: *17526 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 40#40: *17526 http lua close fake request
+2020/04/11 21:24:53 [debug] 40#40: *17526 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 40#40: *17526 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:53 [debug] 39#39: *17528 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 39#39: *17528 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 39#39: *17528 lua resume returned 0
+2020/04/11 21:24:53 [debug] 39#39: *17528 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 39#39: *17528 lua deleting light thread
+2020/04/11 21:24:53 [debug] 39#39: *17528 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 39#39: *17528 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 39#39: *17528 http lua close fake request
+2020/04/11 21:24:53 [debug] 39#39: *17528 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 39#39: *17528 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:53 [debug] 39#39: *17529 http cleanup add: 000055A06F661230
+2020/04/11 21:24:53 [debug] 39#39: *17529 lua run thread, top:0 c:1
+2020/04/11 21:24:53 [debug] 39#39: *17529 lua resume returned 0
+2020/04/11 21:24:53 [debug] 39#39: *17529 lua light thread ended normally
+2020/04/11 21:24:53 [debug] 39#39: *17529 lua deleting light thread
+2020/04/11 21:24:53 [debug] 39#39: *17529 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:53 [debug] 39#39: *17529 http lua fake request count:1
+2020/04/11 21:24:53 [debug] 39#39: *17529 http lua close fake request
+2020/04/11 21:24:53 [debug] 39#39: *17529 lua request cleanup: forcible=0
+2020/04/11 21:24:53 [debug] 39#39: *17529 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:54 [debug] 41#41: *17531 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 41#41: *17531 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 41#41: *17531 lua resume returned 0
+2020/04/11 21:24:54 [debug] 41#41: *17531 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 41#41: *17531 lua deleting light thread
+2020/04/11 21:24:54 [debug] 41#41: *17531 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 41#41: *17531 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 41#41: *17531 http lua close fake request
+2020/04/11 21:24:54 [debug] 41#41: *17531 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 41#41: *17531 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:54 [debug] 41#41: *17532 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 41#41: *17532 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 41#41: *17532 lua resume returned 0
+2020/04/11 21:24:54 [debug] 41#41: *17532 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 41#41: *17532 lua deleting light thread
+2020/04/11 21:24:54 [debug] 41#41: *17532 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 41#41: *17532 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 41#41: *17532 http lua close fake request
+2020/04/11 21:24:54 [debug] 41#41: *17532 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 41#41: *17532 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:54 [debug] 42#42: *17534 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 42#42: *17534 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 42#42: *17534 lua resume returned 0
+2020/04/11 21:24:54 [debug] 42#42: *17534 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 42#42: *17534 lua deleting light thread
+2020/04/11 21:24:54 [debug] 42#42: *17534 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 42#42: *17534 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 42#42: *17534 http lua close fake request
+2020/04/11 21:24:54 [debug] 42#42: *17534 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 42#42: *17534 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:54 [debug] 42#42: *17535 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 42#42: *17535 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 42#42: *17535 lua resume returned 0
+2020/04/11 21:24:54 [debug] 42#42: *17535 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 42#42: *17535 lua deleting light thread
+2020/04/11 21:24:54 [debug] 42#42: *17535 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 42#42: *17535 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 42#42: *17535 http lua close fake request
+2020/04/11 21:24:54 [debug] 42#42: *17535 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 42#42: *17535 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:54 [debug] 40#40: *17537 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 40#40: *17537 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 40#40: *17537 lua resume returned 0
+2020/04/11 21:24:54 [debug] 40#40: *17537 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 40#40: *17537 lua deleting light thread
+2020/04/11 21:24:54 [debug] 40#40: *17537 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 40#40: *17537 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 40#40: *17537 http lua close fake request
+2020/04/11 21:24:54 [debug] 40#40: *17537 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 40#40: *17537 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:54 [debug] 40#40: *17538 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 40#40: *17538 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 40#40: *17538 lua resume returned 0
+2020/04/11 21:24:54 [debug] 40#40: *17538 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 40#40: *17538 lua deleting light thread
+2020/04/11 21:24:54 [debug] 40#40: *17538 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 40#40: *17538 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 40#40: *17538 http lua close fake request
+2020/04/11 21:24:54 [debug] 40#40: *17538 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 40#40: *17538 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:54 [debug] 39#39: *17540 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 39#39: *17540 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 39#39: *17540 lua resume returned 0
+2020/04/11 21:24:54 [debug] 39#39: *17540 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 39#39: *17540 lua deleting light thread
+2020/04/11 21:24:54 [debug] 39#39: *17540 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 39#39: *17540 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 39#39: *17540 http lua close fake request
+2020/04/11 21:24:54 [debug] 39#39: *17540 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 39#39: *17540 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:54 [debug] 39#39: *17541 http cleanup add: 000055A06F661230
+2020/04/11 21:24:54 [debug] 39#39: *17541 lua run thread, top:0 c:1
+2020/04/11 21:24:54 [debug] 39#39: *17541 lua resume returned 0
+2020/04/11 21:24:54 [debug] 39#39: *17541 lua light thread ended normally
+2020/04/11 21:24:54 [debug] 39#39: *17541 lua deleting light thread
+2020/04/11 21:24:54 [debug] 39#39: *17541 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:54 [debug] 39#39: *17541 http lua fake request count:1
+2020/04/11 21:24:54 [debug] 39#39: *17541 http lua close fake request
+2020/04/11 21:24:54 [debug] 39#39: *17541 lua request cleanup: forcible=0
+2020/04/11 21:24:54 [debug] 39#39: *17541 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:54 [debug] 42#42: accept on 0.0.0.0:80, ready: 1
+2020/04/11 21:24:54 [debug] 42#42: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:54 [debug] 42#42: *17543 accept: 103.244.111.113:43156 fd:3
+2020/04/11 21:24:54 [debug] 42#42: *17543 event timer add: 3: 60000:1436128570
+2020/04/11 21:24:54 [debug] 42#42: *17543 reusable connection: 1
+2020/04/11 21:24:54 [debug] 42#42: *17543 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:54 [debug] 42#42: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:55 [debug] 41#41: *17544 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 41#41: *17544 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 41#41: *17544 lua resume returned 0
+2020/04/11 21:24:55 [debug] 41#41: *17544 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 41#41: *17544 lua deleting light thread
+2020/04/11 21:24:55 [debug] 41#41: *17544 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 41#41: *17544 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 41#41: *17544 http lua close fake request
+2020/04/11 21:24:55 [debug] 41#41: *17544 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 41#41: *17544 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 41#41: *17545 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 41#41: *17545 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 41#41: *17545 lua resume returned 0
+2020/04/11 21:24:55 [debug] 41#41: *17545 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 41#41: *17545 lua deleting light thread
+2020/04/11 21:24:55 [debug] 41#41: *17545 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 41#41: *17545 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 41#41: *17545 http lua close fake request
+2020/04/11 21:24:55 [debug] 41#41: *17545 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 41#41: *17545 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 42#42: *17547 http cleanup add: 000055A06F661450
+2020/04/11 21:24:55 [debug] 42#42: *17547 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 42#42: *17547 lua resume returned 0
+2020/04/11 21:24:55 [debug] 42#42: *17547 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 42#42: *17547 lua deleting light thread
+2020/04/11 21:24:55 [debug] 42#42: *17547 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 42#42: *17547 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 42#42: *17547 http lua close fake request
+2020/04/11 21:24:55 [debug] 42#42: *17547 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 42#42: *17547 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 42#42: *17548 http cleanup add: 000055A06F661450
+2020/04/11 21:24:55 [debug] 42#42: *17548 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 42#42: *17548 lua resume returned 0
+2020/04/11 21:24:55 [debug] 42#42: *17548 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 42#42: *17548 lua deleting light thread
+2020/04/11 21:24:55 [debug] 42#42: *17548 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 42#42: *17548 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 42#42: *17548 http lua close fake request
+2020/04/11 21:24:55 [debug] 42#42: *17548 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 42#42: *17548 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 40#40: *17550 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 40#40: *17550 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 40#40: *17550 lua resume returned 0
+2020/04/11 21:24:55 [debug] 40#40: *17550 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 40#40: *17550 lua deleting light thread
+2020/04/11 21:24:55 [debug] 40#40: *17550 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 40#40: *17550 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 40#40: *17550 http lua close fake request
+2020/04/11 21:24:55 [debug] 40#40: *17550 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 40#40: *17550 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 40#40: *17551 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 40#40: *17551 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 40#40: *17551 lua resume returned 0
+2020/04/11 21:24:55 [debug] 40#40: *17551 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 40#40: *17551 lua deleting light thread
+2020/04/11 21:24:55 [debug] 40#40: *17551 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 40#40: *17551 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 40#40: *17551 http lua close fake request
+2020/04/11 21:24:55 [debug] 40#40: *17551 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 40#40: *17551 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:55 [debug] 39#39: *17553 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 39#39: *17553 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 39#39: *17553 lua resume returned 0
+2020/04/11 21:24:55 [debug] 39#39: *17553 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 39#39: *17553 lua deleting light thread
+2020/04/11 21:24:55 [debug] 39#39: *17553 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 39#39: *17553 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 39#39: *17553 http lua close fake request
+2020/04/11 21:24:55 [debug] 39#39: *17553 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 39#39: *17553 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:55 [debug] 39#39: *17554 http cleanup add: 000055A06F661230
+2020/04/11 21:24:55 [debug] 39#39: *17554 lua run thread, top:0 c:1
+2020/04/11 21:24:55 [debug] 39#39: *17554 lua resume returned 0
+2020/04/11 21:24:55 [debug] 39#39: *17554 lua light thread ended normally
+2020/04/11 21:24:55 [debug] 39#39: *17554 lua deleting light thread
+2020/04/11 21:24:55 [debug] 39#39: *17554 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:55 [debug] 39#39: *17554 http lua fake request count:1
+2020/04/11 21:24:55 [debug] 39#39: *17554 http lua close fake request
+2020/04/11 21:24:55 [debug] 39#39: *17554 lua request cleanup: forcible=0
+2020/04/11 21:24:55 [debug] 39#39: *17554 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:56 [debug] 41#41: *17556 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 41#41: *17556 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 41#41: *17556 lua resume returned 0
+2020/04/11 21:24:56 [debug] 41#41: *17556 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 41#41: *17556 lua deleting light thread
+2020/04/11 21:24:56 [debug] 41#41: *17556 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 41#41: *17556 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 41#41: *17556 http lua close fake request
+2020/04/11 21:24:56 [debug] 41#41: *17556 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 41#41: *17556 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 41#41: *17557 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 41#41: *17557 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 41#41: *17557 lua resume returned 0
+2020/04/11 21:24:56 [debug] 41#41: *17557 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 41#41: *17557 lua deleting light thread
+2020/04/11 21:24:56 [debug] 41#41: *17557 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 41#41: *17557 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 41#41: *17557 http lua close fake request
+2020/04/11 21:24:56 [debug] 41#41: *17557 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 41#41: *17557 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 42#42: *17559 http cleanup add: 000055A06F661450
+2020/04/11 21:24:56 [debug] 42#42: *17559 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 42#42: *17559 lua resume returned 0
+2020/04/11 21:24:56 [debug] 42#42: *17559 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 42#42: *17559 lua deleting light thread
+2020/04/11 21:24:56 [debug] 42#42: *17559 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 42#42: *17559 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 42#42: *17559 http lua close fake request
+2020/04/11 21:24:56 [debug] 42#42: *17559 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 42#42: *17559 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 42#42: *17560 http cleanup add: 000055A06F661450
+2020/04/11 21:24:56 [debug] 42#42: *17560 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 42#42: *17560 lua resume returned 0
+2020/04/11 21:24:56 [debug] 42#42: *17560 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 42#42: *17560 lua deleting light thread
+2020/04/11 21:24:56 [debug] 42#42: *17560 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 42#42: *17560 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 42#42: *17560 http lua close fake request
+2020/04/11 21:24:56 [debug] 42#42: *17560 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 42#42: *17560 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 40#40: *17562 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 40#40: *17562 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 40#40: *17562 lua resume returned 0
+2020/04/11 21:24:56 [debug] 40#40: *17562 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 40#40: *17562 lua deleting light thread
+2020/04/11 21:24:56 [debug] 40#40: *17562 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 40#40: *17562 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 40#40: *17562 http lua close fake request
+2020/04/11 21:24:56 [debug] 40#40: *17562 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 40#40: *17562 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 40#40: *17563 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 40#40: *17563 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 40#40: *17563 lua resume returned 0
+2020/04/11 21:24:56 [debug] 40#40: *17563 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 40#40: *17563 lua deleting light thread
+2020/04/11 21:24:56 [debug] 40#40: *17563 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 40#40: *17563 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 40#40: *17563 http lua close fake request
+2020/04/11 21:24:56 [debug] 40#40: *17563 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 40#40: *17563 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:56 [debug] 39#39: *17565 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 39#39: *17565 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 39#39: *17565 lua resume returned 0
+2020/04/11 21:24:56 [debug] 39#39: *17565 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 39#39: *17565 lua deleting light thread
+2020/04/11 21:24:56 [debug] 39#39: *17565 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 39#39: *17565 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 39#39: *17565 http lua close fake request
+2020/04/11 21:24:56 [debug] 39#39: *17565 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 39#39: *17565 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:56 [debug] 39#39: *17566 http cleanup add: 000055A06F661230
+2020/04/11 21:24:56 [debug] 39#39: *17566 lua run thread, top:0 c:1
+2020/04/11 21:24:56 [debug] 39#39: *17566 lua resume returned 0
+2020/04/11 21:24:56 [debug] 39#39: *17566 lua light thread ended normally
+2020/04/11 21:24:56 [debug] 39#39: *17566 lua deleting light thread
+2020/04/11 21:24:56 [debug] 39#39: *17566 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:56 [debug] 39#39: *17566 http lua fake request count:1
+2020/04/11 21:24:56 [debug] 39#39: *17566 http lua close fake request
+2020/04/11 21:24:56 [debug] 39#39: *17566 lua request cleanup: forcible=0
+2020/04/11 21:24:56 [debug] 39#39: *17566 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:57 [debug] 41#41: *17568 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 41#41: *17568 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 41#41: *17568 lua resume returned 0
+2020/04/11 21:24:57 [debug] 41#41: *17568 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 41#41: *17568 lua deleting light thread
+2020/04/11 21:24:57 [debug] 41#41: *17568 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 41#41: *17568 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 41#41: *17568 http lua close fake request
+2020/04/11 21:24:57 [debug] 41#41: *17568 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 41#41: *17568 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 41#41: *17569 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 41#41: *17569 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 41#41: *17569 lua resume returned 0
+2020/04/11 21:24:57 [debug] 41#41: *17569 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 41#41: *17569 lua deleting light thread
+2020/04/11 21:24:57 [debug] 41#41: *17569 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 41#41: *17569 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 41#41: *17569 http lua close fake request
+2020/04/11 21:24:57 [debug] 41#41: *17569 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 41#41: *17569 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 42#42: *17571 http cleanup add: 000055A06F661450
+2020/04/11 21:24:57 [debug] 42#42: *17571 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 42#42: *17571 lua resume returned 0
+2020/04/11 21:24:57 [debug] 42#42: *17571 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 42#42: *17571 lua deleting light thread
+2020/04/11 21:24:57 [debug] 42#42: *17571 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 42#42: *17571 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 42#42: *17571 http lua close fake request
+2020/04/11 21:24:57 [debug] 42#42: *17571 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 42#42: *17571 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 42#42: *17572 http cleanup add: 000055A06F661450
+2020/04/11 21:24:57 [debug] 42#42: *17572 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 42#42: *17572 lua resume returned 0
+2020/04/11 21:24:57 [debug] 42#42: *17572 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 42#42: *17572 lua deleting light thread
+2020/04/11 21:24:57 [debug] 42#42: *17572 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 42#42: *17572 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 42#42: *17572 http lua close fake request
+2020/04/11 21:24:57 [debug] 42#42: *17572 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 42#42: *17572 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 40#40: *17574 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 40#40: *17574 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 40#40: *17574 lua resume returned 0
+2020/04/11 21:24:57 [debug] 40#40: *17574 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 40#40: *17574 lua deleting light thread
+2020/04/11 21:24:57 [debug] 40#40: *17574 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 40#40: *17574 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 40#40: *17574 http lua close fake request
+2020/04/11 21:24:57 [debug] 40#40: *17574 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 40#40: *17574 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 40#40: *17575 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 40#40: *17575 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 40#40: *17575 lua resume returned 0
+2020/04/11 21:24:57 [debug] 40#40: *17575 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 40#40: *17575 lua deleting light thread
+2020/04/11 21:24:57 [debug] 40#40: *17575 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 40#40: *17575 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 40#40: *17575 http lua close fake request
+2020/04/11 21:24:57 [debug] 40#40: *17575 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 40#40: *17575 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:57 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:57 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:57 [debug] 39#39: *17577 accept: 127.0.0.1:43600 fd:3
+2020/04/11 21:24:57 [debug] 39#39: *17577 event timer add: 3: 60000:1436131502
+2020/04/11 21:24:57 [debug] 39#39: *17577 reusable connection: 1
+2020/04/11 21:24:57 [debug] 39#39: *17577 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:57 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:57 [debug] 39#39: *17577 http wait request handler
+2020/04/11 21:24:57 [debug] 39#39: *17577 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:57 [debug] 39#39: *17577 recv: eof:0, avail:-1
+2020/04/11 21:24:57 [debug] 39#39: *17577 recv: fd:3 103 of 1024
+2020/04/11 21:24:57 [debug] 39#39: *17577 reusable connection: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:57 [debug] 39#39: *17577 http process request line
+2020/04/11 21:24:57 [debug] 39#39: *17577 http request line: "GET /healthz HTTP/1.1"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http uri: "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http args: ""
+2020/04/11 21:24:57 [debug] 39#39: *17577 http exten: ""
+2020/04/11 21:24:57 [debug] 39#39: *17577 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:57 [debug] 39#39: *17577 http process request header line
+2020/04/11 21:24:57 [debug] 39#39: *17577 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http header done
+2020/04/11 21:24:57 [debug] 39#39: *17577 event timer del: 3: 1436131502
+2020/04/11 21:24:57 [debug] 39#39: *17577 generic phase: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 rewrite phase: 1
+2020/04/11 21:24:57 [debug] 39#39: *17577 http script value: "internal"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http script set $proxy_upstream_name
+2020/04/11 21:24:57 [debug] 39#39: *17577 test location: "/"
+2020/04/11 21:24:57 [debug] 39#39: *17577 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17577 test location: "healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 using configuration "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http cl:-1 max:1048576
+2020/04/11 21:24:57 [debug] 39#39: *17577 rewrite phase: 3
+2020/04/11 21:24:57 [debug] 39#39: *17577 http set discard body
+2020/04/11 21:24:57 [debug] 39#39: *17577 lua header filter for user lua code, uri "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 lua capture header filter, uri "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:57 GMT
+Content-Type: text/html
+Content-Length: 0
+Connection: close
+
+2020/04/11 21:24:57 [debug] 39#39: *17577 write new buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 http write filter: l:0 f:0 s:141
+2020/04/11 21:24:57 [debug] 39#39: *17577 http output filter "/healthz?"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http copy filter: "/healthz?"
+2020/04/11 21:24:57 [debug] 39#39: *17577 lua body filter for user lua code, uri "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 lua capture body filter, uri "/healthz"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http postpone filter "/healthz?" 00007FFC8FEDBCF0
+2020/04/11 21:24:57 [debug] 39#39: *17577 http brotli filter
+2020/04/11 21:24:57 [debug] 39#39: *17577 write old buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 write new buf t:0 f:0 0000000000000000, pos 0000000000000000, size: 0 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 http write filter: l:1 f:0 s:141
+2020/04/11 21:24:57 [debug] 39#39: *17577 http write filter limit 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 writev: 141 of 141
+2020/04/11 21:24:57 [debug] 39#39: *17577 http write filter 0000000000000000
+2020/04/11 21:24:57 [debug] 39#39: *17577 http copy filter: 0 "/healthz?"
+2020/04/11 21:24:57 [debug] 39#39: *17577 http finalize request: 0, "/healthz?" a:1, c:1
+2020/04/11 21:24:57 [debug] 39#39: *17577 http request count:1 blk:0
+2020/04/11 21:24:57 [debug] 39#39: *17577 http close request
+2020/04/11 21:24:57 [debug] 39#39: *17577 lua log handler, uri:"/healthz" c:0
+2020/04/11 21:24:57 [debug] 39#39: *17577 http log handler
+2020/04/11 21:24:57 [debug] 39#39: *17577 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 free: 000055A06F6E68E0, unused: 2288
+2020/04/11 21:24:57 [debug] 39#39: *17577 close http connection: 3
+2020/04/11 21:24:57 [debug] 40#40: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:57 [debug] 39#39: *17577 reusable connection: 0
+2020/04/11 21:24:57 [debug] 39#39: *17577 free: 000055A06F660A60
+2020/04/11 21:24:57 [debug] 39#39: *17577 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:57 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:24:57 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:57 [debug] 39#39: *17578 accept: 127.0.0.1:43602 fd:3
+2020/04/11 21:24:57 [debug] 39#39: *17578 event timer add: 3: 60000:1436131502
+2020/04/11 21:24:57 [debug] 39#39: *17578 reusable connection: 1
+2020/04/11 21:24:57 [debug] 39#39: *17578 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:57 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:57 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:57 [debug] 39#39: *17578 http wait request handler
+2020/04/11 21:24:57 [debug] 39#39: *17578 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:57 [debug] 39#39: *17578 recv: eof:0, avail:-1
+2020/04/11 21:24:57 [debug] 39#39: *17578 recv: fd:3 121 of 1024
+2020/04/11 21:24:57 [debug] 39#39: *17578 reusable connection: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:24:57 [debug] 39#39: *17578 http process request line
+2020/04/11 21:24:57 [debug] 39#39: *17578 http request line: "GET /is-dynamic-lb-initialized HTTP/1.1"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http uri: "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http args: ""
+2020/04/11 21:24:57 [debug] 39#39: *17578 http exten: ""
+2020/04/11 21:24:57 [debug] 39#39: *17578 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:24:57 [debug] 39#39: *17578 http process request header line
+2020/04/11 21:24:57 [debug] 39#39: *17578 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http header: "Accept-Encoding: gzip"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http header done
+2020/04/11 21:24:57 [debug] 39#39: *17578 event timer del: 3: 1436131502
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 rewrite phase: 1
+2020/04/11 21:24:57 [debug] 39#39: *17578 http script value: "internal"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http script set $proxy_upstream_name
+2020/04/11 21:24:57 [debug] 39#39: *17578 test location: "/"
+2020/04/11 21:24:57 [debug] 39#39: *17578 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 using configuration "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http cl:-1 max:1048576
+2020/04/11 21:24:57 [debug] 39#39: *17578 rewrite phase: 3
+2020/04/11 21:24:57 [debug] 39#39: *17578 rewrite phase: 4
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua rewrite handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:57 [debug] 39#39: *17578 post rewrite phase: 5
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 6
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 7
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 8
+2020/04/11 21:24:57 [debug] 39#39: *17578 access phase: 9
+2020/04/11 21:24:57 [debug] 39#39: *17578 access phase: 10
+2020/04/11 21:24:57 [debug] 39#39: *17578 access phase: 11
+2020/04/11 21:24:57 [debug] 39#39: *17578 access phase: 12
+2020/04/11 21:24:57 [debug] 39#39: *17578 post access phase: 13
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 14
+2020/04/11 21:24:57 [debug] 39#39: *17578 generic phase: 15
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua content handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:24:57 [debug] 39#39: *17578 looking up Lua code cache with key '=content_by_lua(nginx.conf:1252)nhli_4de4d54bf85d85571ef803b53297d9b8'
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua reset ctx
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua creating new thread
+2020/04/11 21:24:57 [debug] 39#39: *17578 http cleanup add: 000055A06F6E6870
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua allocate new chainlink and new buf of size 3, cl:000055A06F6E6888
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua say response
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua header filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua capture header filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:24:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+
+2020/04/11 21:24:57 [debug] 39#39: *17578 write new buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http write filter: l:0 f:0 s:150
+2020/04/11 21:24:57 [debug] 39#39: *17578 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http postpone filter "/is-dynamic-lb-initialized?" 000055A06F6E6888
+2020/04/11 21:24:57 [debug] 39#39: *17578 http brotli filter
+2020/04/11 21:24:57 [debug] 39#39: *17578 http chunk: 3
+2020/04/11 21:24:57 [debug] 39#39: *17578 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write new buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write new buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write new buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http write filter: l:0 f:0 s:158
+2020/04/11 21:24:57 [debug] 39#39: *17578 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua exit with code 200
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua resume returned 1
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua thread yielded
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua thread aborting request with status 200
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http set discard body
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua sending last buf of the response body
+2020/04/11 21:24:57 [debug] 39#39: *17578 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http postpone filter "/is-dynamic-lb-initialized?" 00007FFC8FEDBB70
+2020/04/11 21:24:57 [debug] 39#39: *17578 http brotli filter
+2020/04/11 21:24:57 [debug] 39#39: *17578 http chunk: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write old buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write old buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write old buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 write new buf t:0 f:0 0000000000000000, pos 000055A06E128169, size: 5 file: 0, size: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http write filter: l:1 f:0 s:163
+2020/04/11 21:24:57 [debug] 39#39: *17578 http write filter limit 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 writev: 163 of 163
+2020/04/11 21:24:57 [debug] 39#39: *17578 http write filter 0000000000000000
+2020/04/11 21:24:57 [debug] 39#39: *17578 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:24:57 [debug] 39#39: *17578 http finalize request: 0, "/is-dynamic-lb-initialized?" a:1, c:1
+2020/04/11 21:24:57 [debug] 39#39: *17578 http request count:1 blk:0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http close request
+2020/04/11 21:24:57 [debug] 39#39: *17578 lua log handler, uri:"/is-dynamic-lb-initialized" c:0
+2020/04/11 21:24:57 [debug] 39#39: *17578 http log handler
+2020/04/11 21:24:57 [debug] 39#39: *17578 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 free: 000055A06F6E68E0, unused: 1624
+2020/04/11 21:24:57 [debug] 39#39: *17578 close http connection: 3
+2020/04/11 21:24:57 [debug] 39#39: *17578 reusable connection: 0
+2020/04/11 21:24:57 [debug] 39#39: *17578 free: 000055A06F660A60
+2020/04/11 21:24:57 [debug] 39#39: *17578 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:57 [debug] 39#39: *17579 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 39#39: *17579 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 39#39: *17579 lua resume returned 0
+2020/04/11 21:24:57 [debug] 39#39: *17579 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 39#39: *17579 lua deleting light thread
+2020/04/11 21:24:57 [debug] 39#39: *17579 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 39#39: *17579 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 39#39: *17579 http lua close fake request
+2020/04/11 21:24:57 [debug] 39#39: *17579 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 39#39: *17579 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:57 [debug] 39#39: *17580 http cleanup add: 000055A06F661230
+2020/04/11 21:24:57 [debug] 39#39: *17580 lua run thread, top:0 c:1
+2020/04/11 21:24:57 [debug] 39#39: *17580 lua resume returned 0
+2020/04/11 21:24:57 [debug] 39#39: *17580 lua light thread ended normally
+2020/04/11 21:24:57 [debug] 39#39: *17580 lua deleting light thread
+2020/04/11 21:24:57 [debug] 39#39: *17580 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:57 [debug] 39#39: *17580 http lua fake request count:1
+2020/04/11 21:24:57 [debug] 39#39: *17580 http lua close fake request
+2020/04/11 21:24:57 [debug] 39#39: *17580 lua request cleanup: forcible=0
+2020/04/11 21:24:57 [debug] 39#39: *17580 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:58 [debug] 42#42: accept on 0.0.0.0:443, ready: 1
+2020/04/11 21:24:58 [debug] 42#42: posix_memalign: 000055A06F660A60:512 @16
+2020/04/11 21:24:58 [debug] 40#40: accept on 0.0.0.0:80, ready: 1
+2020/04/11 21:24:58 [debug] 42#42: *17582 accept: 10.10.200.7:52926 fd:24
+2020/04/11 21:24:58 [debug] 42#42: *17582 event timer add: 24: 60000:1436132170
+2020/04/11 21:24:58 [debug] 42#42: *17582 reusable connection: 1
+2020/04/11 21:24:58 [debug] 40#40: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:58 [debug] 40#40: *17583 accept: 10.10.200.7:43408 fd:3
+2020/04/11 21:24:58 [debug] 40#40: *17583 event timer add: 3: 60000:1436132170
+2020/04/11 21:24:58 [debug] 42#42: *17582 epoll add event: fd:24 op:1 ev:80002001
+2020/04/11 21:24:58 [debug] 40#40: *17583 reusable connection: 1
+2020/04/11 21:24:58 [debug] 40#40: *17583 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:58 [debug] 42#42: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:58 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:58 [debug] 42#42: *17582 http check ssl handshake
+2020/04/11 21:24:58 [debug] 40#40: *17583 http wait request handler
+2020/04/11 21:24:58 [debug] 42#42: *17582 http recv(): 0
+2020/04/11 21:24:58 [debug] 40#40: *17583 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:58 [info] 42#42: *17582 client closed connection while SSL handshaking, client: 10.10.200.7, server: 0.0.0.0:443
+2020/04/11 21:24:58 [debug] 42#42: *17582 close http connection: 24
+2020/04/11 21:24:58 [debug] 40#40: *17583 recv: eof:1, avail:-1
+2020/04/11 21:24:58 [debug] 42#42: *17582 event timer del: 24: 1436132170
+2020/04/11 21:24:58 [debug] 42#42: *17582 reusable connection: 0
+2020/04/11 21:24:58 [debug] 40#40: *17583 recv: fd:3 0 of 1024
+2020/04/11 21:24:58 [info] 40#40: *17583 client closed connection while waiting for request, client: 10.10.200.7, server: 0.0.0.0:80
+2020/04/11 21:24:58 [debug] 40#40: *17583 close http connection: 3
+2020/04/11 21:24:58 [debug] 40#40: *17583 event timer del: 3: 1436132170
+2020/04/11 21:24:58 [debug] 40#40: *17583 reusable connection: 0
+2020/04/11 21:24:58 [debug] 42#42: *17582 free: 000055A06F660A60, unused: 232
+2020/04/11 21:24:58 [debug] 40#40: *17583 free: 000055A06F660A60
+2020/04/11 21:24:58 [debug] 40#40: *17583 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:58 [debug] 41#41: *17584 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 41#41: *17584 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 41#41: *17584 lua resume returned 0
+2020/04/11 21:24:58 [debug] 41#41: *17584 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 41#41: *17584 lua deleting light thread
+2020/04/11 21:24:58 [debug] 41#41: *17584 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 41#41: *17584 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 41#41: *17584 http lua close fake request
+2020/04/11 21:24:58 [debug] 41#41: *17584 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 41#41: *17584 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 41#41: *17585 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 41#41: *17585 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 41#41: *17585 lua resume returned 0
+2020/04/11 21:24:58 [debug] 41#41: *17585 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 41#41: *17585 lua deleting light thread
+2020/04/11 21:24:58 [debug] 41#41: *17585 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 41#41: *17585 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 41#41: *17585 http lua close fake request
+2020/04/11 21:24:58 [debug] 41#41: *17585 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 41#41: *17585 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 42#42: *17587 http cleanup add: 000055A06F661450
+2020/04/11 21:24:58 [debug] 42#42: *17587 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 42#42: *17587 lua resume returned 0
+2020/04/11 21:24:58 [debug] 42#42: *17587 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 42#42: *17587 lua deleting light thread
+2020/04/11 21:24:58 [debug] 42#42: *17587 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 42#42: *17587 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 42#42: *17587 http lua close fake request
+2020/04/11 21:24:58 [debug] 42#42: *17587 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 42#42: *17587 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 42#42: *17588 http cleanup add: 000055A06F661450
+2020/04/11 21:24:58 [debug] 42#42: *17588 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 42#42: *17588 lua resume returned 0
+2020/04/11 21:24:58 [debug] 42#42: *17588 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 42#42: *17588 lua deleting light thread
+2020/04/11 21:24:58 [debug] 42#42: *17588 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 42#42: *17588 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 42#42: *17588 http lua close fake request
+2020/04/11 21:24:58 [debug] 42#42: *17588 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 42#42: *17588 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 40#40: *17590 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 40#40: *17590 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 40#40: *17590 lua resume returned 0
+2020/04/11 21:24:58 [debug] 40#40: *17590 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 40#40: *17590 lua deleting light thread
+2020/04/11 21:24:58 [debug] 40#40: *17590 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 40#40: *17590 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 40#40: *17590 http lua close fake request
+2020/04/11 21:24:58 [debug] 40#40: *17590 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 40#40: *17590 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 40#40: *17591 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 40#40: *17591 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 40#40: *17591 lua resume returned 0
+2020/04/11 21:24:58 [debug] 40#40: *17591 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 40#40: *17591 lua deleting light thread
+2020/04/11 21:24:58 [debug] 40#40: *17591 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 40#40: *17591 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 40#40: *17591 http lua close fake request
+2020/04/11 21:24:58 [debug] 40#40: *17591 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 40#40: *17591 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:58 [debug] 39#39: *17593 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 39#39: *17593 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 39#39: *17593 lua resume returned 0
+2020/04/11 21:24:58 [debug] 39#39: *17593 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 39#39: *17593 lua deleting light thread
+2020/04/11 21:24:58 [debug] 39#39: *17593 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 39#39: *17593 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 39#39: *17593 http lua close fake request
+2020/04/11 21:24:58 [debug] 39#39: *17593 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 39#39: *17593 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:58 [debug] 39#39: *17594 http cleanup add: 000055A06F661230
+2020/04/11 21:24:58 [debug] 39#39: *17594 lua run thread, top:0 c:1
+2020/04/11 21:24:58 [debug] 39#39: *17594 lua resume returned 0
+2020/04/11 21:24:58 [debug] 39#39: *17594 lua light thread ended normally
+2020/04/11 21:24:58 [debug] 39#39: *17594 lua deleting light thread
+2020/04/11 21:24:58 [debug] 39#39: *17594 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:58 [debug] 39#39: *17594 http lua fake request count:1
+2020/04/11 21:24:58 [debug] 39#39: *17594 http lua close fake request
+2020/04/11 21:24:58 [debug] 39#39: *17594 lua request cleanup: forcible=0
+2020/04/11 21:24:58 [debug] 39#39: *17594 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:58 [debug] 40#40: accept on 0.0.0.0:80, ready: 1
+2020/04/11 21:24:58 [debug] 40#40: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:58 [debug] 40#40: *17596 accept: 10.10.200.9:37602 fd:3
+2020/04/11 21:24:58 [debug] 40#40: *17596 event timer add: 3: 60000:1436132746
+2020/04/11 21:24:58 [debug] 40#40: *17596 reusable connection: 1
+2020/04/11 21:24:58 [debug] 40#40: *17596 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:58 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:58 [debug] 40#40: *17596 http wait request handler
+2020/04/11 21:24:58 [debug] 40#40: *17596 malloc: 000055A06F660A60:1024
+2020/04/11 21:24:58 [debug] 40#40: *17596 recv: eof:1, avail:-1
+2020/04/11 21:24:58 [debug] 40#40: *17596 recv: fd:3 0 of 1024
+2020/04/11 21:24:58 [info] 40#40: *17596 client closed connection while waiting for request, client: 10.10.200.9, server: 0.0.0.0:80
+2020/04/11 21:24:58 [debug] 40#40: *17596 close http connection: 3
+2020/04/11 21:24:58 [debug] 40#40: *17596 event timer del: 3: 1436132746
+2020/04/11 21:24:58 [debug] 40#40: *17596 reusable connection: 0
+2020/04/11 21:24:58 [debug] 40#40: *17596 free: 000055A06F660A60
+2020/04/11 21:24:58 [debug] 40#40: *17596 free: 000055A06F660840, unused: 136
+2020/04/11 21:24:58 [debug] 40#40: accept on 0.0.0.0:443, ready: 1
+2020/04/11 21:24:58 [debug] 40#40: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:24:58 [debug] 40#40: *17597 accept: 10.10.200.9:39606 fd:3
+2020/04/11 21:24:58 [debug] 40#40: *17597 event timer add: 3: 60000:1436132746
+2020/04/11 21:24:58 [debug] 40#40: *17597 reusable connection: 1
+2020/04/11 21:24:58 [debug] 40#40: *17597 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:24:58 [debug] 40#40: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:24:58 [debug] 40#40: *17597 http check ssl handshake
+2020/04/11 21:24:58 [debug] 40#40: *17597 http recv(): 0
+2020/04/11 21:24:58 [info] 40#40: *17597 client closed connection while SSL handshaking, client: 10.10.200.9, server: 0.0.0.0:443
+2020/04/11 21:24:58 [debug] 40#40: *17597 close http connection: 3
+2020/04/11 21:24:58 [debug] 40#40: *17597 event timer del: 3: 1436132746
+2020/04/11 21:24:58 [debug] 40#40: *17597 reusable connection: 0
+2020/04/11 21:24:58 [debug] 40#40: *17597 free: 000055A06F660840, unused: 232
+2020/04/11 21:24:59 [debug] 41#41: *17598 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 41#41: *17598 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 41#41: *17598 lua resume returned 0
+2020/04/11 21:24:59 [debug] 41#41: *17598 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 41#41: *17598 lua deleting light thread
+2020/04/11 21:24:59 [debug] 41#41: *17598 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 41#41: *17598 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 41#41: *17598 http lua close fake request
+2020/04/11 21:24:59 [debug] 41#41: *17598 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 41#41: *17598 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 41#41: *17599 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 41#41: *17599 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 41#41: *17599 lua resume returned 0
+2020/04/11 21:24:59 [debug] 41#41: *17599 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 41#41: *17599 lua deleting light thread
+2020/04/11 21:24:59 [debug] 41#41: *17599 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 41#41: *17599 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 41#41: *17599 http lua close fake request
+2020/04/11 21:24:59 [debug] 41#41: *17599 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 41#41: *17599 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 42#42: *17601 http cleanup add: 000055A06F661450
+2020/04/11 21:24:59 [debug] 42#42: *17601 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 42#42: *17601 lua resume returned 0
+2020/04/11 21:24:59 [debug] 42#42: *17601 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 42#42: *17601 lua deleting light thread
+2020/04/11 21:24:59 [debug] 42#42: *17601 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 42#42: *17601 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 42#42: *17601 http lua close fake request
+2020/04/11 21:24:59 [debug] 42#42: *17601 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 42#42: *17601 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 42#42: *17602 http cleanup add: 000055A06F661450
+2020/04/11 21:24:59 [debug] 42#42: *17602 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 42#42: *17602 lua resume returned 0
+2020/04/11 21:24:59 [debug] 42#42: *17602 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 42#42: *17602 lua deleting light thread
+2020/04/11 21:24:59 [debug] 42#42: *17602 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 42#42: *17602 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 42#42: *17602 http lua close fake request
+2020/04/11 21:24:59 [debug] 42#42: *17602 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 42#42: *17602 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 40#40: *17604 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 40#40: *17604 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 40#40: *17604 lua resume returned 0
+2020/04/11 21:24:59 [debug] 40#40: *17604 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 40#40: *17604 lua deleting light thread
+2020/04/11 21:24:59 [debug] 40#40: *17604 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 40#40: *17604 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 40#40: *17604 http lua close fake request
+2020/04/11 21:24:59 [debug] 40#40: *17604 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 40#40: *17604 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 40#40: *17605 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 40#40: *17605 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 40#40: *17605 lua resume returned 0
+2020/04/11 21:24:59 [debug] 40#40: *17605 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 40#40: *17605 lua deleting light thread
+2020/04/11 21:24:59 [debug] 40#40: *17605 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 40#40: *17605 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 40#40: *17605 http lua close fake request
+2020/04/11 21:24:59 [debug] 40#40: *17605 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 40#40: *17605 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:24:59 [debug] 39#39: *17607 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 39#39: *17607 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 39#39: *17607 lua resume returned 0
+2020/04/11 21:24:59 [debug] 39#39: *17607 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 39#39: *17607 lua deleting light thread
+2020/04/11 21:24:59 [debug] 39#39: *17607 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 39#39: *17607 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 39#39: *17607 http lua close fake request
+2020/04/11 21:24:59 [debug] 39#39: *17607 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 39#39: *17607 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:24:59 [debug] 39#39: *17608 http cleanup add: 000055A06F661230
+2020/04/11 21:24:59 [debug] 39#39: *17608 lua run thread, top:0 c:1
+2020/04/11 21:24:59 [debug] 39#39: *17608 lua resume returned 0
+2020/04/11 21:24:59 [debug] 39#39: *17608 lua light thread ended normally
+2020/04/11 21:24:59 [debug] 39#39: *17608 lua deleting light thread
+2020/04/11 21:24:59 [debug] 39#39: *17608 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:24:59 [debug] 39#39: *17608 http lua fake request count:1
+2020/04/11 21:24:59 [debug] 39#39: *17608 http lua close fake request
+2020/04/11 21:24:59 [debug] 39#39: *17608 lua request cleanup: forcible=0
+2020/04/11 21:24:59 [debug] 39#39: *17608 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:25:00 [debug] 41#41: *17610 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 41#41: *17610 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 41#41: *17610 lua resume returned 0
+2020/04/11 21:25:00 [debug] 41#41: *17610 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 41#41: *17610 lua deleting light thread
+2020/04/11 21:25:00 [debug] 41#41: *17610 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 41#41: *17610 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 41#41: *17610 http lua close fake request
+2020/04/11 21:25:00 [debug] 41#41: *17610 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 41#41: *17610 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 41#41: *17611 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 41#41: *17611 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 41#41: *17611 lua resume returned 0
+2020/04/11 21:25:00 [debug] 41#41: *17611 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 41#41: *17611 lua deleting light thread
+2020/04/11 21:25:00 [debug] 41#41: *17611 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 41#41: *17611 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 41#41: *17611 http lua close fake request
+2020/04/11 21:25:00 [debug] 41#41: *17611 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 41#41: *17611 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 42#42: *17613 http cleanup add: 000055A06F661450
+2020/04/11 21:25:00 [debug] 42#42: *17613 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 42#42: *17613 lua resume returned 0
+2020/04/11 21:25:00 [debug] 42#42: *17613 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 42#42: *17613 lua deleting light thread
+2020/04/11 21:25:00 [debug] 42#42: *17613 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 42#42: *17613 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 42#42: *17613 http lua close fake request
+2020/04/11 21:25:00 [debug] 42#42: *17613 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 42#42: *17613 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 42#42: *17614 http cleanup add: 000055A06F661450
+2020/04/11 21:25:00 [debug] 42#42: *17614 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 42#42: *17614 lua resume returned 0
+2020/04/11 21:25:00 [debug] 42#42: *17614 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 42#42: *17614 lua deleting light thread
+2020/04/11 21:25:00 [debug] 42#42: *17614 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 42#42: *17614 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 42#42: *17614 http lua close fake request
+2020/04/11 21:25:00 [debug] 42#42: *17614 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 42#42: *17614 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 40#40: *17616 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 40#40: *17616 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 40#40: *17616 lua resume returned 0
+2020/04/11 21:25:00 [debug] 40#40: *17616 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 40#40: *17616 lua deleting light thread
+2020/04/11 21:25:00 [debug] 40#40: *17616 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 40#40: *17616 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 40#40: *17616 http lua close fake request
+2020/04/11 21:25:00 [debug] 40#40: *17616 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 40#40: *17616 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 40#40: *17617 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 40#40: *17617 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 40#40: *17617 lua resume returned 0
+2020/04/11 21:25:00 [debug] 40#40: *17617 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 40#40: *17617 lua deleting light thread
+2020/04/11 21:25:00 [debug] 40#40: *17617 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 40#40: *17617 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 40#40: *17617 http lua close fake request
+2020/04/11 21:25:00 [debug] 40#40: *17617 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 40#40: *17617 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:00 [debug] 39#39: *17619 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 39#39: *17619 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 39#39: *17619 lua resume returned 0
+2020/04/11 21:25:00 [debug] 39#39: *17619 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 39#39: *17619 lua deleting light thread
+2020/04/11 21:25:00 [debug] 39#39: *17619 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 39#39: *17619 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 39#39: *17619 http lua close fake request
+2020/04/11 21:25:00 [debug] 39#39: *17619 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 39#39: *17619 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:25:00 [debug] 39#39: *17620 http cleanup add: 000055A06F661230
+2020/04/11 21:25:00 [debug] 39#39: *17620 lua run thread, top:0 c:1
+2020/04/11 21:25:00 [debug] 39#39: *17620 lua resume returned 0
+2020/04/11 21:25:00 [debug] 39#39: *17620 lua light thread ended normally
+2020/04/11 21:25:00 [debug] 39#39: *17620 lua deleting light thread
+2020/04/11 21:25:00 [debug] 39#39: *17620 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:00 [debug] 39#39: *17620 http lua fake request count:1
+2020/04/11 21:25:00 [debug] 39#39: *17620 http lua close fake request
+2020/04/11 21:25:00 [debug] 39#39: *17620 lua request cleanup: forcible=0
+2020/04/11 21:25:00 [debug] 39#39: *17620 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:25:01 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:25:01 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:25:01 [debug] 39#39: *17622 accept: 127.0.0.1:43626 fd:3
+2020/04/11 21:25:01 [debug] 39#39: *17622 event timer add: 3: 60000:1436134878
+2020/04/11 21:25:01 [debug] 39#39: *17622 reusable connection: 1
+2020/04/11 21:25:01 [debug] 39#39: *17622 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:25:01 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:25:01 [debug] 39#39: *17622 http wait request handler
+2020/04/11 21:25:01 [debug] 39#39: *17622 malloc: 000055A06F660A60:1024
+2020/04/11 21:25:01 [debug] 39#39: *17622 recv: eof:0, avail:-1
+2020/04/11 21:25:01 [debug] 39#39: *17622 recv: fd:3 103 of 1024
+2020/04/11 21:25:01 [debug] 39#39: *17622 reusable connection: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:25:01 [debug] 39#39: *17622 http process request line
+2020/04/11 21:25:01 [debug] 39#39: *17622 http request line: "GET /healthz HTTP/1.1"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http uri: "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http args: ""
+2020/04/11 21:25:01 [debug] 39#39: *17622 http exten: ""
+2020/04/11 21:25:01 [debug] 39#39: *17622 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:25:01 [debug] 39#39: *17622 http process request header line
+2020/04/11 21:25:01 [debug] 39#39: *17622 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http header: "Accept-Encoding: gzip"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http header done
+2020/04/11 21:25:01 [debug] 39#39: *17622 event timer del: 3: 1436134878
+2020/04/11 21:25:01 [debug] 39#39: *17622 generic phase: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 rewrite phase: 1
+2020/04/11 21:25:01 [debug] 39#39: *17622 http script value: "internal"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http script set $proxy_upstream_name
+2020/04/11 21:25:01 [debug] 39#39: *17622 test location: "/"
+2020/04/11 21:25:01 [debug] 39#39: *17622 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17622 test location: "healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 using configuration "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http cl:-1 max:1048576
+2020/04/11 21:25:01 [debug] 39#39: *17622 rewrite phase: 3
+2020/04/11 21:25:01 [debug] 39#39: *17622 http set discard body
+2020/04/11 21:25:01 [debug] 39#39: *17622 lua header filter for user lua code, uri "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 lua capture header filter, uri "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:25:01 GMT
+Content-Type: text/html
+Content-Length: 0
+Connection: close
+
+2020/04/11 21:25:01 [debug] 39#39: *17622 write new buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 http write filter: l:0 f:0 s:141
+2020/04/11 21:25:01 [debug] 39#39: *17622 http output filter "/healthz?"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http copy filter: "/healthz?"
+2020/04/11 21:25:01 [debug] 39#39: *17622 lua body filter for user lua code, uri "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 lua capture body filter, uri "/healthz"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http postpone filter "/healthz?" 00007FFC8FEDBCF0
+2020/04/11 21:25:01 [debug] 39#39: *17622 http brotli filter
+2020/04/11 21:25:01 [debug] 39#39: *17622 write old buf t:1 f:0 000055A06F6E6EA8, pos 000055A06F6E6EA8, size: 141 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 write new buf t:0 f:0 0000000000000000, pos 0000000000000000, size: 0 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 http write filter: l:1 f:0 s:141
+2020/04/11 21:25:01 [debug] 39#39: *17622 http write filter limit 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 writev: 141 of 141
+2020/04/11 21:25:01 [debug] 39#39: *17622 http write filter 0000000000000000
+2020/04/11 21:25:01 [debug] 39#39: *17622 http copy filter: 0 "/healthz?"
+2020/04/11 21:25:01 [debug] 39#39: *17622 http finalize request: 0, "/healthz?" a:1, c:1
+2020/04/11 21:25:01 [debug] 39#39: *17622 http request count:1 blk:0
+2020/04/11 21:25:01 [debug] 39#39: *17622 http close request
+2020/04/11 21:25:01 [debug] 39#39: *17622 lua log handler, uri:"/healthz" c:0
+2020/04/11 21:25:01 [debug] 39#39: *17622 http log handler
+2020/04/11 21:25:01 [debug] 39#39: *17622 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 free: 000055A06F6E68E0, unused: 2288
+2020/04/11 21:25:01 [debug] 39#39: *17622 close http connection: 3
+2020/04/11 21:25:01 [debug] 39#39: *17622 reusable connection: 0
+2020/04/11 21:25:01 [debug] 39#39: *17622 free: 000055A06F660A60
+2020/04/11 21:25:01 [debug] 39#39: *17622 free: 000055A06F660840, unused: 136
+2020/04/11 21:25:01 [debug] 39#39: accept on 127.0.0.1:10246, ready: 1
+2020/04/11 21:25:01 [debug] 39#39: posix_memalign: 000055A06F660840:512 @16
+2020/04/11 21:25:01 [debug] 39#39: *17623 accept: 127.0.0.1:43628 fd:3
+2020/04/11 21:25:01 [debug] 39#39: *17623 event timer add: 3: 60000:1436134878
+2020/04/11 21:25:01 [debug] 39#39: *17623 reusable connection: 1
+2020/04/11 21:25:01 [debug] 39#39: *17623 epoll add event: fd:3 op:1 ev:80002001
+2020/04/11 21:25:01 [debug] 39#39: accept() not ready (11: Resource temporarily unavailable)
+2020/04/11 21:25:01 [debug] 39#39: *17623 http wait request handler
+2020/04/11 21:25:01 [debug] 39#39: *17623 malloc: 000055A06F660A60:1024
+2020/04/11 21:25:01 [debug] 39#39: *17623 recv: eof:0, avail:-1
+2020/04/11 21:25:01 [debug] 39#39: *17623 recv: fd:3 121 of 1024
+2020/04/11 21:25:01 [debug] 39#39: *17623 reusable connection: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 posix_memalign: 000055A06F6E58C0:4096 @16
+2020/04/11 21:25:01 [debug] 39#39: *17623 http process request line
+2020/04/11 21:25:01 [debug] 39#39: *17623 http request line: "GET /is-dynamic-lb-initialized HTTP/1.1"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http uri: "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http args: ""
+2020/04/11 21:25:01 [debug] 39#39: *17623 http exten: ""
+2020/04/11 21:25:01 [debug] 39#39: *17623 posix_memalign: 000055A06F6E68E0:4096 @16
+2020/04/11 21:25:01 [debug] 39#39: *17623 http process request header line
+2020/04/11 21:25:01 [debug] 39#39: *17623 http header: "Host: 127.0.0.1:10246"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http header: "User-Agent: Go-http-client/1.1"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http header: "Accept-Encoding: gzip"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http header done
+2020/04/11 21:25:01 [debug] 39#39: *17623 event timer del: 3: 1436134878
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 rewrite phase: 1
+2020/04/11 21:25:01 [debug] 39#39: *17623 http script value: "internal"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http script set $proxy_upstream_name
+2020/04/11 21:25:01 [debug] 39#39: *17623 test location: "/"
+2020/04/11 21:25:01 [debug] 39#39: *17623 test location: "is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 using configuration "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http cl:-1 max:1048576
+2020/04/11 21:25:01 [debug] 39#39: *17623 rewrite phase: 3
+2020/04/11 21:25:01 [debug] 39#39: *17623 rewrite phase: 4
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua rewrite handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:25:01 [debug] 39#39: *17623 post rewrite phase: 5
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 6
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 7
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 8
+2020/04/11 21:25:01 [debug] 39#39: *17623 access phase: 9
+2020/04/11 21:25:01 [debug] 39#39: *17623 access phase: 10
+2020/04/11 21:25:01 [debug] 39#39: *17623 access phase: 11
+2020/04/11 21:25:01 [debug] 39#39: *17623 access phase: 12
+2020/04/11 21:25:01 [debug] 39#39: *17623 post access phase: 13
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 14
+2020/04/11 21:25:01 [debug] 39#39: *17623 generic phase: 15
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua content handler, uri:"/is-dynamic-lb-initialized" c:1
+2020/04/11 21:25:01 [debug] 39#39: *17623 looking up Lua code cache with key '=content_by_lua(nginx.conf:1252)nhli_4de4d54bf85d85571ef803b53297d9b8'
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua reset ctx
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua creating new thread
+2020/04/11 21:25:01 [debug] 39#39: *17623 http cleanup add: 000055A06F6E6870
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua allocate new chainlink and new buf of size 3, cl:000055A06F6E6888
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua say response
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua header filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua capture header filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 HTTP/1.1 200 OK
+Server: nginx/1.17.8
+Date: Sat, 11 Apr 2020 21:25:01 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+
+2020/04/11 21:25:01 [debug] 39#39: *17623 write new buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http write filter: l:0 f:0 s:150
+2020/04/11 21:25:01 [debug] 39#39: *17623 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http postpone filter "/is-dynamic-lb-initialized?" 000055A06F6E6888
+2020/04/11 21:25:01 [debug] 39#39: *17623 http brotli filter
+2020/04/11 21:25:01 [debug] 39#39: *17623 http chunk: 3
+2020/04/11 21:25:01 [debug] 39#39: *17623 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write new buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write new buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write new buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http write filter: l:0 f:0 s:158
+2020/04/11 21:25:01 [debug] 39#39: *17623 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua exit with code 200
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua resume returned 1
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua thread yielded
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua thread aborting request with status 200
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http set discard body
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua sending last buf of the response body
+2020/04/11 21:25:01 [debug] 39#39: *17623 http output filter "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http copy filter: "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua body filter for user lua code, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua capture body filter, uri "/is-dynamic-lb-initialized"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http postpone filter "/is-dynamic-lb-initialized?" 00007FFC8FEDBB70
+2020/04/11 21:25:01 [debug] 39#39: *17623 http brotli filter
+2020/04/11 21:25:01 [debug] 39#39: *17623 http chunk: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write old buf t:1 f:0 000055A06F6E6F90, pos 000055A06F6E6F90, size: 150 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write old buf t:1 f:0 000055A06F6E7120, pos 000055A06F6E7120, size: 3 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write old buf t:1 f:0 000055A06F6E6898, pos 000055A06F6E6898, size: 3 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write old buf t:0 f:0 0000000000000000, pos 000055A06E12816C, size: 2 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 write new buf t:0 f:0 0000000000000000, pos 000055A06E128169, size: 5 file: 0, size: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http write filter: l:1 f:0 s:163
+2020/04/11 21:25:01 [debug] 39#39: *17623 http write filter limit 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 writev: 163 of 163
+2020/04/11 21:25:01 [debug] 39#39: *17623 http write filter 0000000000000000
+2020/04/11 21:25:01 [debug] 39#39: *17623 http copy filter: 0 "/is-dynamic-lb-initialized?"
+2020/04/11 21:25:01 [debug] 39#39: *17623 http finalize request: 0, "/is-dynamic-lb-initialized?" a:1, c:1
+2020/04/11 21:25:01 [debug] 39#39: *17623 http request count:1 blk:0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http close request
+2020/04/11 21:25:01 [debug] 39#39: *17623 lua log handler, uri:"/is-dynamic-lb-initialized" c:0
+2020/04/11 21:25:01 [debug] 39#39: *17623 http log handler
+2020/04/11 21:25:01 [debug] 39#39: *17623 free: 000055A06F6E58C0, unused: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 free: 000055A06F6E68E0, unused: 1624
+2020/04/11 21:25:01 [debug] 39#39: *17623 close http connection: 3
+2020/04/11 21:25:01 [debug] 39#39: *17623 reusable connection: 0
+2020/04/11 21:25:01 [debug] 39#39: *17623 free: 000055A06F660A60
+2020/04/11 21:25:01 [debug] 39#39: *17623 free: 000055A06F660840, unused: 136
+2020/04/11 21:25:01 [debug] 42#42: *17624 http cleanup add: 000055A06F661450
+2020/04/11 21:25:01 [debug] 42#42: *17624 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 42#42: *17624 lua resume returned 0
+2020/04/11 21:25:01 [debug] 42#42: *17624 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 42#42: *17624 lua deleting light thread
+2020/04/11 21:25:01 [debug] 42#42: *17624 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 42#42: *17624 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 42#42: *17624 http lua close fake request
+2020/04/11 21:25:01 [debug] 42#42: *17624 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 42#42: *17624 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 42#42: *17625 http cleanup add: 000055A06F661450
+2020/04/11 21:25:01 [debug] 42#42: *17625 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 42#42: *17625 lua resume returned 0
+2020/04/11 21:25:01 [debug] 42#42: *17625 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 42#42: *17625 lua deleting light thread
+2020/04/11 21:25:01 [debug] 42#42: *17625 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 42#42: *17625 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 42#42: *17625 http lua close fake request
+2020/04/11 21:25:01 [debug] 42#42: *17625 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 42#42: *17625 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 41#41: *17627 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 41#41: *17627 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 41#41: *17627 lua resume returned 0
+2020/04/11 21:25:01 [debug] 41#41: *17627 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 41#41: *17627 lua deleting light thread
+2020/04/11 21:25:01 [debug] 41#41: *17627 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 41#41: *17627 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 41#41: *17627 http lua close fake request
+2020/04/11 21:25:01 [debug] 41#41: *17627 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 41#41: *17627 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 41#41: *17628 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 41#41: *17628 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 41#41: *17628 lua resume returned 0
+2020/04/11 21:25:01 [debug] 41#41: *17628 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 41#41: *17628 lua deleting light thread
+2020/04/11 21:25:01 [debug] 41#41: *17628 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 41#41: *17628 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 41#41: *17628 http lua close fake request
+2020/04/11 21:25:01 [debug] 41#41: *17628 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 41#41: *17628 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 40#40: *17630 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 40#40: *17630 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 40#40: *17630 lua resume returned 0
+2020/04/11 21:25:01 [debug] 40#40: *17630 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 40#40: *17630 lua deleting light thread
+2020/04/11 21:25:01 [debug] 40#40: *17630 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 40#40: *17630 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 40#40: *17630 http lua close fake request
+2020/04/11 21:25:01 [debug] 40#40: *17630 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 40#40: *17630 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 40#40: *17631 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 40#40: *17631 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 40#40: *17631 lua resume returned 0
+2020/04/11 21:25:01 [debug] 40#40: *17631 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 40#40: *17631 lua deleting light thread
+2020/04/11 21:25:01 [debug] 40#40: *17631 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 40#40: *17631 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 40#40: *17631 http lua close fake request
+2020/04/11 21:25:01 [debug] 40#40: *17631 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 40#40: *17631 http lua close fake http connection 00007F5D66194CD0
+2020/04/11 21:25:01 [debug] 39#39: *17633 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 39#39: *17633 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 39#39: *17633 lua resume returned 0
+2020/04/11 21:25:01 [debug] 39#39: *17633 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 39#39: *17633 lua deleting light thread
+2020/04/11 21:25:01 [debug] 39#39: *17633 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 39#39: *17633 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 39#39: *17633 http lua close fake request
+2020/04/11 21:25:01 [debug] 39#39: *17633 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 39#39: *17633 http lua close fake http connection 00007F5D66194DB8
+2020/04/11 21:25:01 [debug] 39#39: *17634 http cleanup add: 000055A06F661230
+2020/04/11 21:25:01 [debug] 39#39: *17634 lua run thread, top:0 c:1
+2020/04/11 21:25:01 [debug] 39#39: *17634 lua resume returned 0
+2020/04/11 21:25:01 [debug] 39#39: *17634 lua light thread ended normally
+2020/04/11 21:25:01 [debug] 39#39: *17634 lua deleting light thread
+2020/04/11 21:25:01 [debug] 39#39: *17634 http lua finalize fake request: 0, a:1, c:1
+2020/04/11 21:25:01 [debug] 39#39: *17634 http lua fake request count:1
+2020/04/11 21:25:01 [debug] 39#39: *17634 http lua close fake request
+2020/04/11 21:25:01 [debug] 39#39: *17634 lua request cleanup: forcible=0
+2020/04/11 21:25:01 [debug] 39#39: *17634 http lua close fake http connection 00007F5D66194DB8

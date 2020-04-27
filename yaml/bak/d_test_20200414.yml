@@ -13,20 +13,13 @@ spec:
         app: webapp1
     spec:
       subdomain: default-subdomain
-      volumes:
-      - name: task-pv-storage
-        persistentVolumeClaim:
-          claimName: myclaim
       containers:
       - name: webapp1
-        image: testapp/app1:v0.3
+        image: testapp/app1:v0.2
         command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
-        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user1.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp1"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user1.yml"]
         ports:
         - containerPort: 80
-        volumeMounts:
-        - mountPath: "/pvc2"
-          name: task-pv-storage
 ---
 apiVersion: v1
 kind: Service
@@ -59,9 +52,9 @@ spec:
       subdomain: default-subdomain
       containers:
       - name: webapp2
-        image: testapp/app1:v0.3
+        image: testapp/app1:v0.2
         command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
-        args: ["-Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=3333,server=y,suspend=n -Dspring.config.location=file:///hli_app/sw/jboss/config/application_user2.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp2"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user2.yml"]
         ports:
         - containerPort: 80
 ---
@@ -96,9 +89,9 @@ spec:
       subdomain: default-subdomain
       containers:
       - name: webapp3
-        image: testapp/app1:v0.3
+        image: testapp/app1:v0.2
         command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
-        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user3.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp3"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user3.yml"]
         ports:
         - containerPort: 80
 ---
@@ -133,9 +126,9 @@ spec:
       subdomain: default-subdomain
       containers:
       - name: webapp4
-        image: testapp/app1:v0.3
+        image: testapp/app1:v0.2
         command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
-        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user4.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp4"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user4.yml"]
         ports:
         - containerPort: 80
 ---
@@ -170,9 +163,9 @@ spec:
       subdomain: default-subdomain
       containers:
       - name: webapp5
-        image: testapp/app1:v0.3
+        image: testapp/app1:v0.2
         command: ["/hli_app/sw/jboss/engine/tomcat/bin/start.sh"]
-        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user5.yml -javaagent:/hli_app/sw/agent.java/scouter.agent.jar -Dscouter.config=/hli_app/sw/agent.java/conf/scouter.conf -Dobj_name=webapp5"]
+        args: ["-Dspring.config.location=file:///hli_app/sw/jboss/config/application_user5.yml"]
         ports:
         - containerPort: 80
 ---
