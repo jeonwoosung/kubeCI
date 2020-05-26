@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: zabbix-web-nginx-mysql
+  name: zabbix-web-nginx-mysql
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: zabbix-web-nginx-mysql
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: zabbix-web-nginx-mysql
+    spec:
+      containers:
+      - image: zabbix/zabbix-web-nginx-mysql:latest
+        name: zabbix-web-nginx-mysql
+        resources: {}
+        env:
+        - name: DB_SERVER_HOST
+          value: "mysql-server"
+        - name: MYSQL_DATABASE
+          value: "zabbix"
+        - name: MYSQL_USER
+          value: "zabbix"
+        - name: MYSQL_PASSWORD
+          value: "zabbix_pwd"
+        - name: MYSQL_ROOT_PASSWORD
+          value: "root_pwd"
+status: {}

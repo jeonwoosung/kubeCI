@@ -1,0 +1,2 @@
+NAME      TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)   AGE
+zabbix5   ClusterIP   172.16.5.165   <none>        80/TCP    5h9m
